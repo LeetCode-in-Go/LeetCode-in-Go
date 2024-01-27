@@ -1,7 +1,7 @@
 package s0001_two_sum
 
 import (
-	_ "main/go/g0001_0100/s0001_two_sum"
+	. "main/go/g0001_0100/s0001_two_sum/two_sum"
 	"reflect"
 	"testing"
 )
