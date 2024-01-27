@@ -1,4 +1,4 @@
-package g0001_0100.s0001_two_sum
+package s0001_two_sum
 
 import (
 	"reflect"
