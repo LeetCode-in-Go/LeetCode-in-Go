@@ -1,7 +1,7 @@
 package s0001_two_sum
 
 import (
-	"github.com/LeetCode-in-Go/go/g0001_0100/s0001_two_sum"
+	"github.com/LeetCode-in-Go/src/main/go/g0001_0100/s0001_two_sum"
 	"reflect"
 	"testing"
 )
