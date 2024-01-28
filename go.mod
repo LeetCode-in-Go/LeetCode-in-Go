@@ -1,4 +1,4 @@
-module github.com/javadev/algorithm-go
+module github.com/LeetCode-in-Go/LeetCode-in-Go
 
 go 1.21
 
