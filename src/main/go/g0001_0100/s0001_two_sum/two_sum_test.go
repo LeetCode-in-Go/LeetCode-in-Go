@@ -10,9 +10,13 @@ func TestTwoSum(t *testing.T) {
 }
 
 func TestTwoSum2(t *testing.T) {
-	assert.Equal(t, []int{0, 2}, twoSum([]int{7, 11, 15}, 22))
+	assert.Equal(t, []int{1, 2}, twoSum([]int{3, 2, 4}, 6))
 }
 
 func TestTwoSum3(t *testing.T) {
-	assert.Equal(t, []int{0, 1}, twoSum([]int{11, 15}, 26))
+	assert.Equal(t, []int{0, 1}, twoSum([]int{3, 3}, 6))
+}
+
+func TestTwoSum4(t *testing.T) {
+	assert.Equal(t, []int{-1, -1}, twoSum([]int{3, 3}, 7))
 }
