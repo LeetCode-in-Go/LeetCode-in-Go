@@ -1,8 +1,12 @@
 package s0001_two_sum
 
-func twoSum(numbers []int, target int) []int {
+// #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table
+// #Data_Structure_I_Day_2_Array #Level_1_Day_13_Hashmap #Udemy_Arrays #Big_O_Time_O(n)_Space_O(n)
+// #2024_01_28_Time_3_ms_(93.85%)_Space_4.2_MB_(58.64%)
+
+func twoSum(nums []int, target int) []int {
 	indexMap := make(map[int]int)
-	for i, num := range numbers {
+	for i, num := range nums {
 		requiredNum := target - num
 		if j, ok := indexMap[requiredNum]; ok {
 			return []int{j, i}
