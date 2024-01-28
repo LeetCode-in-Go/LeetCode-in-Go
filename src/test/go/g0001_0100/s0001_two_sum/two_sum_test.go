@@ -1,8 +1,8 @@
 package s0001_two_sum
 
 import (
+	"main/go/g0001_0100/s0001_two_sum"
 	"reflect"
-	"src/main/go/g0001_0100/s0001_two_sum/two_sum"
 	"testing"
 )
 
@@ -13,16 +13,16 @@ var (
 )
 
 func TestTwoSum(t *testing.T) {
-	if !reflect.DeepEqual(two_sum.twoSum(case1, target1), result1) {
+	if !reflect.DeepEqual(twoSum(case1, target1), result1) {
 		t.Fail()
 	}
-	if !reflect.DeepEqual(two_sum.twoSum(case2, target2), result2) {
+	if !reflect.DeepEqual(twoSum(case2, target2), result2) {
 		t.Fail()
 	}
-	if !reflect.DeepEqual(two_sum.twoSum(case3, target3), result3) {
+	if !reflect.DeepEqual(twoSum(case3, target3), result3) {
 		t.Fail()
 	}
-	if two_sum.twoSum(nil, 0) != nil {
+	if twoSum(nil, 0) != nil {
 		t.Fail()
 	}
 }
