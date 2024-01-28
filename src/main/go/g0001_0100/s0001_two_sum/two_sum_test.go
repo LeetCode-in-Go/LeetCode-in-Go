@@ -2,7 +2,6 @@ package s0001_two_sum
 
 import (
 	"github.com/stretchr/testify/assert"
-	"reflect"
 	"testing"
 )
 
