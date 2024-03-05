@@ -1,36 +1,36 @@
 package s0006_zigzag_conversion
 
-// #Medium #String #2024_03_05_Time_0_ms_(100.00%)_Space_4_MB_(86.83%)
+// #Medium #String #2024_03_05_Time_0_ms_(100.00%)_Space_3.9_MB_(94.33%)
+
+import (
+	"strings"
+)
 
 func convert(s string, numRows int) string {
-	topJump := (numRows-2)*2 + 2
-	if topJump <= 0 {
+	sLen := len(s)
+	if numRows == 1 {
 		return s
 	}
-	size := len(s)
-	resultArray := make([]byte, size)
-	j := 0
-	for i := 0; i < size; i += topJump {
-		resultArray[j] = s[i]
-		j++
-	}
-	for row := 1; row < numRows-1; row++ {
-		for i := 0; i-row < size; i += topJump {
-			iLeft := i - row
-			iRight := i + row
-			if iLeft > 0 {
-				resultArray[j] = s[iLeft]
-				j++
+	maxDist := numRows*2 - 2
+	var buf strings.Builder
+	for i := 0; i < numRows; i++ {
+		index := i
+		if i == 0 || i == numRows-1 {
+			for index < sLen {
+				buf.WriteByte(s[index])
+				index += maxDist
 			}
-			if iRight < size {
-				resultArray[j] = s[iRight]
-				j++
+		} else {
+			for index < sLen {
+				buf.WriteByte(s[index])
+				index += maxDist - i*2
+				if index >= sLen {
+					break
+				}
+				buf.WriteByte(s[index])
+				index += i * 2
 			}
 		}
 	}
-	for i := topJump - numRows + 1; i < size; i += topJump {
-		resultArray[j] = s[i]
-		j++
-	}
-	return string(resultArray)
+	return buf.String()
 }
