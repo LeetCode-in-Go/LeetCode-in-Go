@@ -1,9 +1,8 @@
 package s0010_regular_expression_matching
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestIsMatch(t *testing.T) {

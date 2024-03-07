@@ -1,9 +1,8 @@
 package s0004_median_of_two_sorted_arrays
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestFindMedianSortedArrays(t *testing.T) {
