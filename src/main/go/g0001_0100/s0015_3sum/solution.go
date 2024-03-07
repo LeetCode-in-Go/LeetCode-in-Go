@@ -36,7 +36,5 @@ func threeSum(nums []int) [][]int {
 			}
 		}
 	}
-
-	// Return the final result
 	return res
 }
