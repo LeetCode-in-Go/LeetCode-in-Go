@@ -4,14 +4,14 @@ import (
 	"testing"
 )
 
-const result = "Expected %v, but got %v"
+const RESULT = "Expected %v, but got %v"
 
 func TestThreeSum(t *testing.T) {
 	expected := [][]int{{-1, -1, 2}, {-1, 0, 1}}
 	actual := threeSum([]int{-1, 0, 1, 2, -1, -4})
 
 	if !equalSlices(expected, actual) {
-		t.Errorf(result, expected, actual)
+		t.Errorf(RESULT, expected, actual)
 	}
 }
 
@@ -20,7 +20,7 @@ func TestThreeSum2(t *testing.T) {
 	actual := threeSum([]int{})
 
 	if !equalSlices(expected, actual) {
-		t.Errorf(result, expected, actual)
+		t.Errorf(RESULT, expected, actual)
 	}
 }
 
@@ -29,7 +29,7 @@ func TestThreeSum3(t *testing.T) {
 	actual := threeSum([]int{0})
 
 	if !equalSlices(expected, actual) {
-		t.Errorf(result, expected, actual)
+		t.Errorf(RESULT, expected, actual)
 	}
 }
 
