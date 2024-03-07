@@ -5,8 +5,6 @@ package s0007_reverse_integer
 
 import "math"
 
-// #Medium #Top_Interview_Questions #Math #Udemy_Integers
-
 func reverse(x int) int {
 	var r int
 	for ok := true; ok; ok = x != 0 {
