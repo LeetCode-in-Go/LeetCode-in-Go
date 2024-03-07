@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: setup
-        uses: actions/setup-go@v2
+        uses: actions/setup-go@v4
         with:
           go-version: ^1.21
 
@@ -26,7 +26,11 @@ jobs:
         run: go vet ./...
 
       - name: golangci-lint
-        uses: golangci/golangci-lint-action@v2
+        uses: golangci/golangci-lint-action@v3
+        with:
+          version: v1.51.1
+          args: --timeout=5m
+          skip-pkg-cache: true
 
       - name: test
         run: go test -v -race -coverprofile=coverage.txt -covermode=atomic ./...
