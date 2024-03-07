@@ -1,9 +1,8 @@
 package s0005_longest_palindromic_substring
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestLongestPalindrome(t *testing.T) {

@@ -1,9 +1,8 @@
 package s0006_zigzag_conversion
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestConvert(t *testing.T) {

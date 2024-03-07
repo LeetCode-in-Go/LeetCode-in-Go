@@ -1,9 +1,8 @@
 package s0011_container_with_most_water
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMaxArea(t *testing.T) {
