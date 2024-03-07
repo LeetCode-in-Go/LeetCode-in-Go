@@ -5,8 +5,7 @@ package s0010_regular_expression_matching
 // #2024_03_07_Time_0_ms_(100.00%)_Space_2.3_MB_(36.02%)
 
 func isMatch(s string, p string) bool {
-	m := len(s)
-	n := len(p)
+	m, n := len(s), len(p)
 	dp := make([][]bool, m+1)
 	for i := 0; i <= m; i++ {
 		dp[i] = make([]bool, n+1)
@@ -26,7 +25,6 @@ func isMatch(s string, p string) bool {
 				if s[i-1] == p[j-2] || p[j-2] == '.' {
 					dp[i][j] = dp[i][j] || dp[i-1][j]
 				}
-
 			}
 		}
 	}
