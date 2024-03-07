@@ -502,6 +502,8 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0007 |[Reverse Integer](src/main/go/g0001_0100/s0007_reverse_integer/solution.go)| Medium | Top_Interview_Questions, Math, 2024_03_07_Time_0_ms_(100.00%)_Space_2.2_MB_(46.99%), Medium, Top_Interview_Questions, Math | 0 | 100.00
+| 0009 |[Palindrome Number](src/main/go/g0001_0100/s0009_palindrome_number/solution.go)| Easy | Math | 0 | 100.00
 
 #### Udemy Strings
 
@@ -565,6 +567,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0010 |[Regular Expression Matching](src/main/go/g0001_0100/s0010_regular_expression_matching/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Udemy Backtracking/Recursion
 
@@ -857,6 +860,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0011 |[Container With Most Water](src/main/go/g0001_0100/s0011_container_with_most_water/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 60 | 94.99
 
 #### Day 5 Sliding Window
 
@@ -1220,7 +1224,12 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
-| 0006 |[Longest Palindromic Substring](src/main/go/g0001_0100/s0006_zigzag_conversion/solution.go)| Medium | String | 0 | 100.00
+| 0011 |[Container With Most Water](src/main/go/g0001_0100/s0011_container_with_most_water/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Algorithm_II_Day_4_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 60 | 94.99
+| 0010 |[Regular Expression Matching](src/main/go/g0001_0100/s0010_regular_expression_matching/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0009 |[Palindrome Number](src/main/go/g0001_0100/s0009_palindrome_number/solution.go)| Easy | Math, Udemy_Integers | 0 | 100.00
+| 0008 |[String to Integer (atoi)](src/main/go/g0001_0100/s0008_string_to_integer_atoi/solution.go)| Medium | Top_Interview_Questions, String | 0 | 100.00
+| 0007 |[Reverse Integer](src/main/go/g0001_0100/s0007_reverse_integer/solution.go)| Medium | Top_Interview_Questions, Math, Udemy_Integers, 2024_03_07_Time_0_ms_(100.00%)_Space_2.2_MB_(46.99%), Medium, Top_Interview_Questions, Math | 0 | 100.00
+| 0006 |[Zigzag Conversion](src/main/go/g0001_0100/s0006_zigzag_conversion/solution.go)| Medium | String | 0 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/go/g0001_0100/s0005_longest_palindromic_substring/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0004 |[Median of Two Sorted Arrays](src/main/go/g0001_0100/s0004_median_of_two_sorted_arrays/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1) | 9 | 72.04
 | 0003 |[Longest Substring Without Repeating Characters](src/main/go/g0001_0100/s0003_longest_substring_without_repeating_characters/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
