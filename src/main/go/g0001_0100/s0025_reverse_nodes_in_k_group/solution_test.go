@@ -1,9 +1,8 @@
 package s0025_reverse_nodes_in_k_group
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestReverseKGroup(t *testing.T) {
