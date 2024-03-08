@@ -1,10 +1,9 @@
 package s0024_swap_nodes_in_pairs
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
-)
+	"testing"
+	)
 
 func TestSwapPairs(t *testing.T) {
 	head := createSinglyLinkedList([]int{1, 2, 3, 4})
