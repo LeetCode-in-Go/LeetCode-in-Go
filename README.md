@@ -119,6 +119,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0739 |[Daily Temperatures](src/main/go/g0701_0800/s0739_daily_temperatures/solution.go)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 120 | 98.07
 
 #### Day 7
 
@@ -574,6 +575,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 12 | 48.57
 | 0010 |[Regular Expression Matching](src/main/go/g0001_0100/s0010_regular_expression_matching/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Udemy Backtracking/Recursion
@@ -695,6 +697,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0560 |[Subarray Sum Equals K](src/main/go/g0501_0600/s0560_subarray_sum_equals_k/solution.go)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Big_O_Time_O(n)_Space_O(n) | 40 | 70.56
 
 #### Day 6 String
 
@@ -705,6 +708,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0763 |[Partition Labels](src/main/go/g0701_0800/s0763_partition_labels/solution.go)| Medium | Top_100_Liked_Questions, String, Hash_Table, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 8 String
 
@@ -946,6 +950,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 12 | 48.57
 
 #### Day 18 Dynamic Programming
 
@@ -1228,6 +1233,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 12 | 48.57
 
 #### Day 20
 
@@ -1243,6 +1249,11 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_17_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 12 | 48.57
+| 0763 |[Partition Labels](src/main/go/g0701_0800/s0763_partition_labels/solution.go)| Medium | Top_100_Liked_Questions, String, Hash_Table, Greedy, Two_Pointers, Data_Structure_II_Day_7_String, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0739 |[Daily Temperatures](src/main/go/g0701_0800/s0739_daily_temperatures/solution.go)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 120 | 98.07
+| 0647 |[Palindromic Substrings](src/main/go/g0601_0700/s0647_palindromic_substrings/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
+| 0560 |[Subarray Sum Equals K](src/main/go/g0501_0600/s0560_subarray_sum_equals_k/solution.go)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 40 | 70.56
 | 0031 |[Next Permutation](src/main/go/g0001_0100/s0031_next_permutation/solution.go)| Medium | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0025 |[Reverse Nodes in k-Group](src/main/go/g0001_0100/s0025_reverse_nodes_in_k_group/solution.go)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_13_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
 | 0024 |[Swap Nodes in Pairs](src/main/go/g0001_0100/s0024_swap_nodes_in_pairs/solution.go)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_12_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00

@@ -1,9 +1,8 @@
 package s0020_valid_parentheses
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestIsValid1(t *testing.T) {
