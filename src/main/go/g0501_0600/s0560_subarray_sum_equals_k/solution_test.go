@@ -1,8 +1,8 @@
 package s0560_subarray_sum_equals_k
 
 import (
-    "github.com/stretchr/testify/assert"
-    "testing"
+	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSubarraySum(t *testing.T) {
