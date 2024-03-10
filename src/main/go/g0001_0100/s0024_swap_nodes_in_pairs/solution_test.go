@@ -1,8 +1,8 @@
 package s0024_swap_nodes_in_pairs
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestSwapPairs(t *testing.T) {

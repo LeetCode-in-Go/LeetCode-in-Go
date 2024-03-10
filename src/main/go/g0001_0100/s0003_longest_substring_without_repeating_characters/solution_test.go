@@ -1,8 +1,8 @@
 package s0003_longest_substring_without_repeating_characters
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestLengthOfLongestSubstring(t *testing.T) {

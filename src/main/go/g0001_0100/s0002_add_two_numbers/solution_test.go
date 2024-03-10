@@ -1,8 +1,8 @@
 package s0002_add_two_numbers
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestAddTwoNumbers(t *testing.T) {

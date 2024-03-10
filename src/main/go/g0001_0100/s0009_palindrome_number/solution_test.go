@@ -1,8 +1,8 @@
 package s0009_palindrome_number
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestIsPalindrome1(t *testing.T) {

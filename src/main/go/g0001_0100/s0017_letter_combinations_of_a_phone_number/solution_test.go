@@ -2,7 +2,6 @@ package s0017_letter_combinations_of_a_phone_number
 
 import (
 	"testing"
-
 	"github.com/stretchr/testify/assert"
 )
 

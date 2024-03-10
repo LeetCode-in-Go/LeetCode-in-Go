@@ -2,7 +2,6 @@ package s0021_merge_two_sorted_lists
 
 import (
 	"testing"
-
 	"github.com/stretchr/testify/assert"
 )
 

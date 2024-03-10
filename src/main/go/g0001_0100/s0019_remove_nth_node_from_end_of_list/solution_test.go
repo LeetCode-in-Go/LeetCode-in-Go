@@ -2,7 +2,6 @@ package s0019_remove_nth_node_from_end_of_list
 
 import (
 	"testing"
-
 	"github.com/stretchr/testify/assert"
 )
 

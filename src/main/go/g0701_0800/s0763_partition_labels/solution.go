@@ -2,6 +2,7 @@ package s0763_partition_labels
 
 // #Medium #Top_100_Liked_Questions #String #Hash_Table #Greedy #Two_Pointers
 // #Data_Structure_II_Day_7_String #Big_O_Time_O(n)_Space_O(1)
+// #2024_03_10_Time_0_ms_(100.00%)_Space_2.3_MB_(63.50%)
 
 func partitionLabels(s string) []int {
 	letters := []rune(s)

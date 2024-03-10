@@ -2,7 +2,6 @@ package s0020_valid_parentheses
 
 import (
 	"testing"
-
 	"github.com/stretchr/testify/assert"
 )
 
