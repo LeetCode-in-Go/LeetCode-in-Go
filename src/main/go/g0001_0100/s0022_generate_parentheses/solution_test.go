@@ -1,8 +1,8 @@
 package s0022_generate_parentheses
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestGenerateParenthesis(t *testing.T) {

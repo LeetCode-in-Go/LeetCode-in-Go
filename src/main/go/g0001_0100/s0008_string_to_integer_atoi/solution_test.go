@@ -1,8 +1,8 @@
 package s0008_string_to_integer_atoi
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMyAtoi(t *testing.T) {

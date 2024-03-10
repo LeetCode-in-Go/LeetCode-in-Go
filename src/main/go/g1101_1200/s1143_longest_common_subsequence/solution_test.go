@@ -1,8 +1,8 @@
 package s1143_longest_common_subsequence
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestLongestCommonSubsequence1(t *testing.T) {

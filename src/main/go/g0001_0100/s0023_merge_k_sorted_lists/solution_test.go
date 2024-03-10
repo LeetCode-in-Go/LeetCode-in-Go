@@ -1,8 +1,8 @@
 package s0023_merge_k_sorted_lists
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMergeKLists(t *testing.T) {

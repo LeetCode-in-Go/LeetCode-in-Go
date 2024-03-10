@@ -1,8 +1,8 @@
 package s0001_two_sum
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestTwoSum(t *testing.T) {

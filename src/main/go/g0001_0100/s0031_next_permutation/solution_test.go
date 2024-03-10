@@ -1,8 +1,8 @@
 package s0031_next_permutation
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestNextPermutation(t *testing.T) {

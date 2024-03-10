@@ -1,8 +1,8 @@
 package s0007_reverse_integer
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestReverse(t *testing.T) {

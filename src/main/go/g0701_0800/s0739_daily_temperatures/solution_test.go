@@ -1,8 +1,8 @@
 package s0739_daily_temperatures
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestDailyTemperatures1(t *testing.T) {

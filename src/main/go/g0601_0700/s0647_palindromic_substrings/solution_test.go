@@ -1,8 +1,8 @@
 package s0647_palindromic_substrings
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestCountSubstrings(t *testing.T) {

@@ -1,8 +1,8 @@
 package s0763_partition_labels
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestPartitionLabels1(t *testing.T) {
