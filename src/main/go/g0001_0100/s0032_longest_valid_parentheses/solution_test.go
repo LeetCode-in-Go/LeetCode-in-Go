@@ -1,9 +1,8 @@
 package s0032_longest_valid_parentheses
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestLongestValidParentheses(t *testing.T) {
