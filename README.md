@@ -437,6 +437,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 9 Binary Search Tree
 
@@ -498,6 +499,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/go/g0001_0100/s0039_combination_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 
 ### Udemy
 
@@ -520,6 +522,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Udemy Arrays
 
@@ -583,6 +586,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0022 |[Generate Parentheses](src/main/go/g0001_0100/s0022_generate_parentheses/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 2 | 75.02
+| 0039 |[Combination Sum](src/main/go/g0001_0100/s0039_combination_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 | 0017 |[Letter Combinations of a Phone Number](src/main/go/g0001_0100/s0017_letter_combinations_of_a_phone_number/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 
 #### Udemy Bit Manipulation
@@ -790,6 +794,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/go/g0001_0100/s0035_search_insert_position/solution.go)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 2 Two Pointers
 
@@ -865,6 +870,8 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/go/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 3 | 93.06
+| 0033 |[Search in Rotated Sorted Array](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 2 Binary Search
 
@@ -912,6 +919,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/go/g0001_0100/s0039_combination_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 
 #### Day 11 Recursion Backtracking
 
@@ -983,6 +991,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/go/g0001_0100/s0035_search_insert_position/solution.go)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 3
 
@@ -998,6 +1007,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/go/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 3 | 93.06
 
 #### Day 6
 
@@ -1028,6 +1038,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 12
 
@@ -1254,6 +1265,11 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0739 |[Daily Temperatures](src/main/go/g0701_0800/s0739_daily_temperatures/solution.go)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 120 | 98.07
 | 0647 |[Palindromic Substrings](src/main/go/g0601_0700/s0647_palindromic_substrings/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
 | 0560 |[Subarray Sum Equals K](src/main/go/g0501_0600/s0560_subarray_sum_equals_k/solution.go)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 40 | 70.56
+| 0039 |[Combination Sum](src/main/go/g0001_0100/s0039_combination_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Backtracking, Algorithm_II_Day_10_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
+| 0035 |[Search Insert Position](src/main/go/g0001_0100/s0035_search_insert_position/solution.go)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_I_Day_1_Binary_Search, Binary_Search_I_Day_2, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/go/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_5, Big_O_Time_O(log_n)_Space_O(1) | 3 | 93.06
+| 0033 |[Search in Rotated Sorted Array](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_11, Level_2_Day_8_Binary_Search, Udemy_Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0032 |[Longest Valid Parentheses](src/main/go/g0001_0100/s0032_longest_valid_parentheses/solution.go)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Stack, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0031 |[Next Permutation](src/main/go/g0001_0100/s0031_next_permutation/solution.go)| Medium | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0025 |[Reverse Nodes in k-Group](src/main/go/g0001_0100/s0025_reverse_nodes_in_k_group/solution.go)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_13_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
 | 0024 |[Swap Nodes in Pairs](src/main/go/g0001_0100/s0024_swap_nodes_in_pairs/solution.go)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_12_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
