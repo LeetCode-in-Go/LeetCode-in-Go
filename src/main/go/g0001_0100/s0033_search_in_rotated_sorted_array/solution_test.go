@@ -1,9 +1,8 @@
 package s0033_search_in_rotated_sorted_array
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSearch(t *testing.T) {
