@@ -1,9 +1,8 @@
 package s0034_find_first_and_last_position_of_element_in_sorted_array
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSearchRange(t *testing.T) {
