@@ -1,9 +1,8 @@
 package s0035_search_insert_position
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSearchInsert(t *testing.T) {
