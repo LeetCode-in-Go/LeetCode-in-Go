@@ -1,9 +1,8 @@
 package s0039_combination_sum
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestCombinationSum(t *testing.T) {
