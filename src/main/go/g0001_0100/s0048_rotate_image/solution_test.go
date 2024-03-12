@@ -1,9 +1,8 @@
 package s0048_rotate_image
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestRotate(t *testing.T) {
