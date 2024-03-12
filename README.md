@@ -125,6 +125,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/go/g0001_0100/s0048_rotate_image/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
 
 #### Day 8
 
@@ -500,6 +501,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0039 |[Combination Sum](src/main/go/g0001_0100/s0039_combination_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
+| 0046 |[Permutations](src/main/go/g0001_0100/s0046_permutations/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 ### Udemy
 
@@ -529,11 +531,13 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0001 |[Two Sum](src/main/go/g0001_0100/s0001_two_sum/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 3 | 93.85
+| 0041 |[First Missing Positive](src/main/go/g0001_0100/s0041_first_missing_positive/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 39 | 92.34
 
 #### Udemy Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/go/g0001_0100/s0042_trapping_rain_water/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 3 | 99.42
 | 0015 |[3Sum](src/main/go/g0001_0100/s0015_3sum/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 37 | 90.03
 
 #### Udemy Famous Algorithm
@@ -550,6 +554,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/go/g0001_0100/s0048_rotate_image/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
 
 #### Udemy Linked List
 
@@ -588,6 +593,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0022 |[Generate Parentheses](src/main/go/g0001_0100/s0022_generate_parentheses/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 2 | 75.02
 | 0039 |[Combination Sum](src/main/go/g0001_0100/s0039_combination_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 | 0017 |[Letter Combinations of a Phone Number](src/main/go/g0001_0100/s0017_letter_combinations_of_a_phone_number/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0046 |[Permutations](src/main/go/g0001_0100/s0046_permutations/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 #### Udemy Bit Manipulation
 
@@ -691,6 +697,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/go/g0001_0100/s0048_rotate_image/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
 
 #### Day 4 Array
 
@@ -848,6 +855,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0046 |[Permutations](src/main/go/g0001_0100/s0046_permutations/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -937,6 +945,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0045 |[Jump Game II](src/main/go/g0001_0100/s0045_jump_game_ii/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 6 | 96.98
 
 #### Day 14 Dynamic Programming
 
@@ -1168,6 +1177,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0045 |[Jump Game II](src/main/go/g0001_0100/s0045_jump_game_ii/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 6 | 96.98
 
 #### Day 5
 
@@ -1193,6 +1203,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/go/g0001_0100/s0042_trapping_rain_water/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 3 | 99.42
 
 #### Day 10
 
@@ -1265,6 +1276,11 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0739 |[Daily Temperatures](src/main/go/g0701_0800/s0739_daily_temperatures/solution.go)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 120 | 98.07
 | 0647 |[Palindromic Substrings](src/main/go/g0601_0700/s0647_palindromic_substrings/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
 | 0560 |[Subarray Sum Equals K](src/main/go/g0501_0600/s0560_subarray_sum_equals_k/solution.go)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 40 | 70.56
+| 0048 |[Rotate Image](src/main/go/g0001_0100/s0048_rotate_image/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Data_Structure_II_Day_3_Array, Programming_Skills_II_Day_7, Udemy_2D_Arrays/Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+| 0046 |[Permutations](src/main/go/g0001_0100/s0046_permutations/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Algorithm_I_Day_11_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
+| 0045 |[Jump Game II](src/main/go/g0001_0100/s0045_jump_game_ii/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_4, Big_O_Time_O(n)_Space_O(1) | 6 | 96.98
+| 0042 |[Trapping Rain Water](src/main/go/g0001_0100/s0042_trapping_rain_water/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Dynamic_Programming_I_Day_9, Udemy_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 3 | 99.42
+| 0041 |[First Missing Positive](src/main/go/g0001_0100/s0041_first_missing_positive/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Udemy_Arrays, Big_O_Time_O(n)_Space_O(n) | 39 | 92.34
 | 0039 |[Combination Sum](src/main/go/g0001_0100/s0039_combination_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Backtracking, Algorithm_II_Day_10_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 | 0035 |[Search Insert Position](src/main/go/g0001_0100/s0035_search_insert_position/solution.go)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_I_Day_1_Binary_Search, Binary_Search_I_Day_2, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 | 0034 |[Find First and Last Position of Element in Sorted Array](src/main/go/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_5, Big_O_Time_O(log_n)_Space_O(1) | 3 | 93.06
