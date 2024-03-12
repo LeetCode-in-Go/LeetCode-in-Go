@@ -1,9 +1,8 @@
 package s0042_trapping_rain_water
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestTrap(t *testing.T) {
