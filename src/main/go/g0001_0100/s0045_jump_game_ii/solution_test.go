@@ -1,9 +1,8 @@
 package s0045_jump_game_ii
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestJump(t *testing.T) {
