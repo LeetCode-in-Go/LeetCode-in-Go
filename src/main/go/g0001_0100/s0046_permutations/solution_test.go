@@ -1,9 +1,8 @@
 package s0046_permutations
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestPermute(t *testing.T) {
