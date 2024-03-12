@@ -1,9 +1,8 @@
 package s0041_first_missing_positive
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestFirstMissingPositive(t *testing.T) {
