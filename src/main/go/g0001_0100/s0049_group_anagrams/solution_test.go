@@ -1,9 +1,8 @@
 package s0049_group_anagrams
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestGroupAnagrams(t *testing.T) {
