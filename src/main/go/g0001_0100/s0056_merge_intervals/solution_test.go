@@ -1,9 +1,8 @@
 package s0056_merge_intervals
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMerge(t *testing.T) {
