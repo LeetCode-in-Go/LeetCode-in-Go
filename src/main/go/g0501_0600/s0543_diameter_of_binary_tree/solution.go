@@ -4,6 +4,21 @@ package s0543_diameter_of_binary_tree
 // #Udemy_Tree_Stack_Queue #Big_O_Time_O(n)_Space_O(n)
 // #2024_03_12_Time_3_ms_(71.60%)_Space_6.8_MB_(5.31%)
 
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+
+type TreeNode struct {
+	Val int
+	Left *TreeNode
+	Right *TreeNode
+}
+
 func max(a, b int) int {
 	if a > b {
 		return a

@@ -11,6 +11,13 @@ package s0437_path_sum_iii
  *     Right *TreeNode
  * }
  */
+
+type TreeNode struct {
+	Val int
+	Left *TreeNode
+	Right *TreeNode
+}
+
 func pathSum(root *TreeNode, targetSum int) int {
 	mp := make(map[int]int)
 	mp[0] = 1
