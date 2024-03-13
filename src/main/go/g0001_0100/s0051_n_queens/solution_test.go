@@ -1,9 +1,8 @@
 package s0051_n_queens
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSolveNQueens(t *testing.T) {
