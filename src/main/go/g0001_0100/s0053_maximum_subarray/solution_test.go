@@ -1,9 +1,8 @@
 package s0053_maximum_subarray
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMaxSubArray(t *testing.T) {
