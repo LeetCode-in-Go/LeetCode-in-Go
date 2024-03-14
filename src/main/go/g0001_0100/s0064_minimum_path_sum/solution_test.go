@@ -1,9 +1,8 @@
 package s0064_minimum_path_sum
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMinPathSum(t *testing.T) {
