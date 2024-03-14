@@ -1,9 +1,8 @@
 package s0072_edit_distance
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMinDistance(t *testing.T) {
