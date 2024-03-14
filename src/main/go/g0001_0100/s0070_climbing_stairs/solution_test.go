@@ -1,9 +1,8 @@
 package s0070_climbing_stairs
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestClimbStairs(t *testing.T) {
