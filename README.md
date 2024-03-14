@@ -370,11 +370,13 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 11 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/go/g0001_0100/s0062_unique_paths/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 12 Sliding Window/Two Pointer
 
@@ -560,6 +562,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0048 |[Rotate Image](src/main/go/g0001_0100/s0048_rotate_image/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+| 0073 |[Set Matrix Zeroes](src/main/go/g0001_0100/s0073_set_matrix_zeroes/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Matrix, Big_O_Time_O(m\*n)_Space_O(1) | 8 | 83.64
 | 0056 |[Merge Intervals](src/main/go/g0001_0100/s0056_merge_intervals/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 12 | 90.65
 
 #### Udemy Linked List
@@ -589,7 +592,10 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0064 |[Minimum Path Sum](src/main/go/g0001_0100/s0064_minimum_path_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 | 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 12 | 48.57
+| 0072 |[Edit Distance](src/main/go/g0001_0100/s0072_edit_distance/solution.go)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 | 0010 |[Regular Expression Matching](src/main/go/g0001_0100/s0010_regular_expression_matching/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Udemy Backtracking/Recursion
@@ -870,6 +876,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 13 Bit Manipulation
 
@@ -956,6 +963,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0045 |[Jump Game II](src/main/go/g0001_0100/s0045_jump_game_ii/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 6 | 96.98
+| 0062 |[Unique Paths](src/main/go/g0001_0100/s0062_unique_paths/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 14 Dynamic Programming
 
@@ -983,6 +991,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0072 |[Edit Distance](src/main/go/g0001_0100/s0072_edit_distance/solution.go)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 
 #### Day 19 Bit Manipulation
 
@@ -1177,6 +1186,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 3
 
@@ -1246,11 +1256,13 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/go/g0001_0100/s0062_unique_paths/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 16
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0064 |[Minimum Path Sum](src/main/go/g0001_0100/s0064_minimum_path_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
 #### Day 17
 
@@ -1268,6 +1280,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 12 | 48.57
+| 0072 |[Edit Distance](src/main/go/g0001_0100/s0072_edit_distance/solution.go)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 
 #### Day 20
 
@@ -1288,6 +1301,11 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0739 |[Daily Temperatures](src/main/go/g0701_0800/s0739_daily_temperatures/solution.go)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 120 | 98.07
 | 0647 |[Palindromic Substrings](src/main/go/g0601_0700/s0647_palindromic_substrings/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
 | 0560 |[Subarray Sum Equals K](src/main/go/g0501_0600/s0560_subarray_sum_equals_k/solution.go)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 40 | 70.56
+| 0073 |[Set Matrix Zeroes](src/main/go/g0001_0100/s0073_set_matrix_zeroes/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Matrix, Udemy_2D_Arrays/Matrix, Big_O_Time_O(m\*n)_Space_O(1) | 8 | 83.64
+| 0072 |[Edit Distance](src/main/go/g0001_0100/s0072_edit_distance/solution.go)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
+| 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_2, Level_1_Day_10_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0064 |[Minimum Path Sum](src/main/go/g0001_0100/s0064_minimum_path_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Dynamic_Programming_I_Day_16, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0062 |[Unique Paths](src/main/go/g0001_0100/s0062_unique_paths/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_15, Level_1_Day_11_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 | 0056 |[Merge Intervals](src/main/go/g0001_0100/s0056_merge_intervals/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Data_Structure_II_Day_2_Array, Level_2_Day_17_Interval, Udemy_2D_Arrays/Matrix, Big_O_Time_O(n_log_n)_Space_O(n) | 12 | 90.65
 | 0055 |[Jump Game](src/main/go/g0001_0100/s0055_jump_game/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_4, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 48 | 71.95
 | 0053 |[Maximum Subarray](src/main/go/g0001_0100/s0053_maximum_subarray/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Data_Structure_I_Day_1_Array, Dynamic_Programming_I_Day_5, Udemy_Famous_Algorithm, Big_O_Time_O(n)_Space_O(1) | 79 | 87.63
