@@ -1,9 +1,8 @@
 package s0073_set_matrix_zeroes
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSetZeroes(t *testing.T) {
