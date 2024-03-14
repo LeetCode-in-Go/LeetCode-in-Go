@@ -7,7 +7,7 @@ import (
 )
 
 func TestFindAnagrams(t *testing.T) {
-	result := Solution{}.findAnagrams("cbaebabacd", "abc")
+	result := findAnagrams("cbaebabacd", "abc")
 	expected := []int{0, 6}
 	sort.Ints(result)
 	sort.Ints(expected)
@@ -17,7 +17,7 @@ func TestFindAnagrams(t *testing.T) {
 }
 
 func TestFindAnagrams2(t *testing.T) {
-	result := Solution{}.findAnagrams("abab", "ab")
+	result := findAnagrams("abab", "ab")
 	expected := []int{0, 1, 2}
 	sort.Ints(result)
 	sort.Ints(expected)
