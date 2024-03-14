@@ -6,7 +6,7 @@ import (
 )
 
 func TestFindAnagrams(t *testing.T) {
-	result := Solution{}.findAnagrams("cbaebabacd", "abc")
+	result := findAnagrams("cbaebabacd", "abc")
 	expected := []int{0, 6}
 	if !reflect.DeepEqual(result, expected) {
 		t.Errorf("Expected: %v, but got: %v", expected, result)
@@ -14,7 +14,7 @@ func TestFindAnagrams(t *testing.T) {
 }
 
 func TestFindAnagrams2(t *testing.T) {
-	result := Solution{}.findAnagrams("abab", "ab")
+	result := findAnagrams("abab", "ab")
 	expected := []int{0, 1, 2}
 	if !reflect.DeepEqual(result, expected) {
 		t.Errorf("Expected: %v, but got: %v", expected, result)
