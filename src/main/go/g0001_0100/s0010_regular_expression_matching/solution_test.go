@@ -6,21 +6,21 @@ import (
 )
 
 func TestIsMatch(t *testing.T) {
-	assert.Equal(t, false, isMatch("aa", "a"))
+	assert.False(t, isMatch("aa", "a"))
 }
 
 func TestIsMatch2(t *testing.T) {
-	assert.Equal(t, true, isMatch("aa", "a*"))
+	assert.True(t, isMatch("aa", "a*"))
 }
 
 func TestIsMatch3(t *testing.T) {
-	assert.Equal(t, true, isMatch("ab", ".*"))
+	assert.True(t, isMatch("ab", ".*"))
 }
 
 func TestIsMatch4(t *testing.T) {
-	assert.Equal(t, true, isMatch("aab", "c*a*b"))
+	assert.True(t, isMatch("aab", "c*a*b"))
 }
 
 func TestIsMatch5(t *testing.T) {
-	assert.Equal(t, false, isMatch("mississippi", "mis*is*p*."))
+	assert.False(t, isMatch("mississippi", "mis*is*p*."))
 }

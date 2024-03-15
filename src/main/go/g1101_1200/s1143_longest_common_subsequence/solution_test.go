@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestLongestCommonSubsequence1(t *testing.T) {
+func TestLongestCommonSubsequence(t *testing.T) {
 	result := longestCommonSubsequence("abcde", "ace")
 	assert.Equal(t, 3, result)
 }

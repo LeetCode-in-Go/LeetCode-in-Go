@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestPartitionLabels1(t *testing.T) {
+func TestPartitionLabels(t *testing.T) {
 	result := partitionLabels("ababcbacadefegdehijhklij")
 	assert.Equal(t, []int{9, 7, 8}, result)
 }
