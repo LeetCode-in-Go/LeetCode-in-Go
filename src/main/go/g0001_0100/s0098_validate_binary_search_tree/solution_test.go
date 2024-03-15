@@ -1,9 +1,8 @@
 package s0098_validate_binary_search_tree
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestIsValidBST(t *testing.T) {
