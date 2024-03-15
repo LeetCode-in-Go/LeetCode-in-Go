@@ -1,9 +1,8 @@
 package s0079_word_search
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestExist(t *testing.T) {
