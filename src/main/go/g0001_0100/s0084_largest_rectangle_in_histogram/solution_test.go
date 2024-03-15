@@ -1,9 +1,8 @@
 package s0084_largest_rectangle_in_histogram
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestLargestRectangleArea(t *testing.T) {
