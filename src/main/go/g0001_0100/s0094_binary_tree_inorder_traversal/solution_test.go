@@ -1,9 +1,8 @@
 package s0094_binary_tree_inorder_traversal
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestInorderTraversal(t *testing.T) {
