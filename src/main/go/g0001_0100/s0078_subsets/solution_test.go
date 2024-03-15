@@ -1,9 +1,8 @@
 package s0078_subsets
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSubsets(t *testing.T) {
