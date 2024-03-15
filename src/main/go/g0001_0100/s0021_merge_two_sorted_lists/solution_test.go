@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestMergeTwoLists1(t *testing.T) {
+func TestMergeTwoLists(t *testing.T) {
 	l1 := &ListNode{Val: 1, Next: &ListNode{Val: 2, Next: &ListNode{Val: 4}}}
 	l2 := &ListNode{Val: 1, Next: &ListNode{Val: 3, Next: &ListNode{Val: 4}}}
 	expected := []int{1, 1, 2, 3, 4, 4}

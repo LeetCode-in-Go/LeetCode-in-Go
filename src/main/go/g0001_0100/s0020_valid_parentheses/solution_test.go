@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestIsValid1(t *testing.T) {
+func TestIsValid(t *testing.T) {
 	assert.True(t, isValid("()"))
 }
 

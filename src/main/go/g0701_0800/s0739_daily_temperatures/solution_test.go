@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestDailyTemperatures1(t *testing.T) {
+func TestDailyTemperatures(t *testing.T) {
 	result := dailyTemperatures([]int{73, 74, 75, 71, 69, 72, 76, 73})
 	assert.Equal(t, []int{1, 1, 4, 2, 1, 1, 0, 0}, result)
 }

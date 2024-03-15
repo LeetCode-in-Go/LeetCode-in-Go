@@ -5,14 +5,14 @@ import (
 	"testing"
 )
 
-func TestIsPalindrome1(t *testing.T) {
-	assert.Equal(t, true, isPalindrome(121))
+func TestIsPalindrome(t *testing.T) {
+	assert.True(t, isPalindrome(121))
 }
 
 func TestIsPalindrome2(t *testing.T) {
-	assert.Equal(t, false, isPalindrome(-121))
+	assert.False(t, isPalindrome(-121))
 }
 
 func TestIsPalindrome3(t *testing.T) {
-	assert.Equal(t, false, isPalindrome(10))
+	assert.False(t, isPalindrome(10))
 }
