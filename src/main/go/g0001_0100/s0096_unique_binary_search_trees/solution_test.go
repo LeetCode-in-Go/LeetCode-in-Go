@@ -1,9 +1,8 @@
 package s0096_unique_binary_search_trees
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestNumTrees(t *testing.T) {
