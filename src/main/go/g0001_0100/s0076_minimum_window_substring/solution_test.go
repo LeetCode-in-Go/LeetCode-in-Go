@@ -1,9 +1,8 @@
 package s0076_minimum_window_substring
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMinWindow(t *testing.T) {
