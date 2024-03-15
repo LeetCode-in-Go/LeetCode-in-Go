@@ -1,9 +1,8 @@
 package s0075_sort_colors
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSortColors(t *testing.T) {
