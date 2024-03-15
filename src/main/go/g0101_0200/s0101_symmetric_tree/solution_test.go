@@ -1,9 +1,8 @@
 package s0101_symmetric_tree
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSymmetricTree(t *testing.T) {
