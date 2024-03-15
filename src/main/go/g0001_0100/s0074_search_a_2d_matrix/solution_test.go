@@ -1,9 +1,8 @@
 package s0074_search_a_2d_matrix
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestSearchMatrix(t *testing.T) {
