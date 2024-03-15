@@ -8,7 +8,7 @@ import (
 
 func TestGroupAnagrams(t *testing.T) {
 	expected := [][]string{{"eat", "tea", "ate"}, {"bat"}, {"tan", "nat"}}
-	actual := Solution{}.groupAnagrams([]string{"eat", "tea", "tan", "ate", "nat", "bat"})
+	actual := groupAnagrams([]string{"eat", "tea", "tan", "ate", "nat", "bat"})
 	sort.Slice(actual, func(i, j int) bool {
 		return len(actual[i]) < len(actual[j])
 	})
@@ -22,7 +22,7 @@ func TestGroupAnagrams(t *testing.T) {
 
 func TestGroupAnagrams2(t *testing.T) {
 	expected := [][]string{{""}}
-	actual := Solution{}.groupAnagrams([]string{""})
+	actual := groupAnagrams([]string{""})
 	if !reflect.DeepEqual(actual, expected) {
 		t.Errorf("Expected: %v, but got: %v", expected, actual)
 	}
@@ -30,7 +30,7 @@ func TestGroupAnagrams2(t *testing.T) {
 
 func TestGroupAnagrams3(t *testing.T) {
 	expected := [][]string{{"a"}}
-	actual := Solution{}.groupAnagrams([]string{"a"})
+	actual := groupAnagrams([]string{"a"})
 	if !reflect.DeepEqual(actual, expected) {
 		t.Errorf("Expected: %v, but got: %v", expected, actual)
 	}
