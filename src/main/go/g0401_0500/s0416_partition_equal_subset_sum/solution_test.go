@@ -1,22 +1,16 @@
 package s0416_partition_equal_subset_sum
 
 import (
-	"reflect"
+	"github.com/stretchr/testify/assert"
 	"testing"
 )
 
 func TestCanPartition(t *testing.T) {
 	result := canPartition([]int{1, 5, 11, 5})
-	expected := true
-	if !reflect.DeepEqual(result, expected) {
-		t.Errorf("Expected: %v, but got: %v", expected, result)
-	}
+	assert.True(t, result)
 }
 
 func TestCanPartition2(t *testing.T) {
 	result := canPartition([]int{1, 2, 3, 5})
-	expected := false
-	if !reflect.DeepEqual(result, expected) {
-		t.Errorf("Expected: %v, but got: %v", expected, result)
-	}
+	assert.False(t, result)
 }
