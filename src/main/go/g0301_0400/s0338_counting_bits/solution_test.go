@@ -1,7 +1,5 @@
 package s0338_counting_bits
 
-package main
-
 import (
 	"github.com/stretchr/testify/assert"
 	"testing"
