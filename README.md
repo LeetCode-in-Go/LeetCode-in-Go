@@ -396,6 +396,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0394 |[Decode String](src/main/go/g0301_0400/s0394_decode_string/solution.go)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 1 | 76.33
 
 #### Day 15 Heap
 
@@ -468,6 +469,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 73.33
 
 #### Day 13 Dynamic Programming
 
@@ -532,6 +534,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0003 |[Longest Substring Without Repeating Characters](src/main/go/g0001_0100/s0003_longest_substring_without_repeating_characters/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0020 |[Valid Parentheses](src/main/go/g0001_0100/s0020_valid_parentheses/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 1 | 74.95
 | 0005 |[Longest Palindromic Substring](src/main/go/g0001_0100/s0005_longest_palindromic_substring/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0394 |[Decode String](src/main/go/g0301_0400/s0394_decode_string/solution.go)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 1 | 76.33
 | 0049 |[Group Anagrams](src/main/go/g0001_0100/s0049_group_anagrams/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 16 | 85.07
 
 #### Udemy Binary Search
@@ -608,6 +611,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0064 |[Minimum Path Sum](src/main/go/g0001_0100/s0064_minimum_path_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 5 | 91.77
 | 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 12 | 48.57
 | 0072 |[Edit Distance](src/main/go/g0001_0100/s0072_edit_distance/solution.go)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 | 0010 |[Regular Expression Matching](src/main/go/g0001_0100/s0010_regular_expression_matching/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
@@ -626,6 +630,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0338 |[Counting Bits](src/main/go/g0301_0400/s0338_counting_bits/solution.go)| Easy | Top_100_Liked_Questions, Dynamic_Programming, Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 0 | 100.00
 
 #### Udemy Design
 
@@ -824,6 +829,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0347 |[Top K Frequent Elements](src/main/go/g0301_0400/s0347_top_k_frequent_elements/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Big_O_Time_O(n\*log(n))_Space_O(k) | 8 | 88.72
 
 #### Day 21 Heap Priority Queue
 
@@ -1004,6 +1010,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 5 | 91.77
 
 #### Day 17 Dynamic Programming
 
@@ -1016,6 +1023,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0072 |[Edit Distance](src/main/go/g0001_0100/s0072_edit_distance/solution.go)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
+| 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 73.33
 
 #### Day 19 Bit Manipulation
 
@@ -1114,6 +1122,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 5 | 91.77
 
 #### Day 4
 
@@ -1300,6 +1309,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 5 | 91.77
 
 #### Day 19
 
@@ -1312,6 +1322,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 73.33
 
 #### Day 21
 
@@ -1332,6 +1343,11 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0438 |[Find All Anagrams in a String](src/main/go/g0401_0500/s0438_find_all_anagrams_in_a_string/solution.go)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Algorithm_II_Day_5_Sliding_Window, Programming_Skills_II_Day_12, Level_1_Day_12_Sliding_Window/Two_Pointer, Big_O_Time_O(n+m)_Space_O(1) | 0 | 100.00
 | 0437 |[Path Sum III](src/main/go/g0401_0500/s0437_path_sum_iii/solution.go)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Big_O_Time_O(n)_Space_O(n) | 7 | 74.18
 | 0416 |[Partition Equal Subset Sum](src/main/go/g0401_0500/s0416_partition_equal_subset_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Level_2_Day_13_Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 13 | 91.83
+| 0394 |[Decode String](src/main/go/g0301_0400/s0394_decode_string/solution.go)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Level_1_Day_14_Stack, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 1 | 76.33
+| 0347 |[Top K Frequent Elements](src/main/go/g0301_0400/s0347_top_k_frequent_elements/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Data_Structure_II_Day_20_Heap_Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(k) | 8 | 88.72
+| 0338 |[Counting Bits](src/main/go/g0301_0400/s0338_counting_bits/solution.go)| Easy | Top_100_Liked_Questions, Dynamic_Programming, Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 0 | 100.00
+| 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 73.33
+| 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Big_O_Time_O(n\*log_n)_Space_O(n) | 5 | 91.77
 | 0101 |[Symmetric Tree](src/main/go/g0101_0200/s0101_symmetric_tree/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_2_Day_15_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 | 0098 |[Validate Binary Search Tree](src/main/go/g0001_0100/s0098_validate_binary_search_tree/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_I_Day_14_Tree, Level_1_Day_8_Binary_Search_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(log(N)) | 6 | 55.36
 | 0096 |[Unique Binary Search Trees](src/main/go/g0001_0100/s0096_unique_binary_search_trees/solution.go)| Medium | Top_100_Liked_Questions, Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Dynamic_Programming_I_Day_11, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
