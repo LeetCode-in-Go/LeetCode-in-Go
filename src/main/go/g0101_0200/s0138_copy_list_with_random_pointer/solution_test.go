@@ -2,8 +2,8 @@ package s0138_copy_list_with_random_pointer
 
 import (
 	"github.com/stretchr/testify/assert"
-	"testing"
 	"strconv"
+	"testing"
 )
 
 func TestCopyRandomList(t *testing.T) {
