@@ -1,9 +1,8 @@
 package s0102_binary_tree_level_order_traversal
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestLevelOrder(t *testing.T) {

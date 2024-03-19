@@ -1,9 +1,8 @@
 package s0114_flatten_binary_tree_to_linked_list
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestFlatten(t *testing.T) {

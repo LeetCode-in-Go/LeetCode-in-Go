@@ -1,9 +1,8 @@
 package s0105_construct_binary_tree_from_preorder_and_inorder_traversal
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestConstructBinaryTree(t *testing.T) {

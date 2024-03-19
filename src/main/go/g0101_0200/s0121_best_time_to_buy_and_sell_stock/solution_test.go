@@ -1,9 +1,8 @@
 package s0121_best_time_to_buy_and_sell_stock
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMaxProfit(t *testing.T) {
