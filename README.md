@@ -57,6 +57,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0283 |[Move Zeroes](src/main/go/g0201_0300/s0283_move_zeroes/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 15 | 88.69
 
 #### Day 7 Array
 
@@ -551,10 +552,12 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0121 |[Best Time to Buy and Sell Stock](src/main/go/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 76 | 99.34
+| 0283 |[Move Zeroes](src/main/go/g0201_0300/s0283_move_zeroes/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 15 | 88.69
 | 0001 |[Two Sum](src/main/go/g0001_0100/s0001_two_sum/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 3 | 93.85
 | 0055 |[Jump Game](src/main/go/g0001_0100/s0055_jump_game/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 48 | 71.95
 | 0075 |[Sort Colors](src/main/go/g0001_0100/s0075_sort_colors/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 1 | 76.26
 | 0041 |[First Missing Positive](src/main/go/g0001_0100/s0041_first_missing_positive/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 39 | 92.34
+| 0239 |[Sliding Window Maximum](src/main/go/g0201_0300/s0239_sliding_window_maximum/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Heap_Priority_Queue, Sliding_Window, Queue, Monotonic_Queue, Big_O_Time_O(n\*k)_Space_O(n+k) | 168 | 99.41
 
 #### Udemy Two Pointers
 
@@ -752,6 +755,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0240 |[Search a 2D Matrix II](src/main/go/g0201_0300/s0240_search_a_2d_matrix_ii/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Big_O_Time_O(n+m)_Space_O(1) | 11 | 96.10
 
 #### Day 5 Array
 
@@ -864,6 +868,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0283 |[Move Zeroes](src/main/go/g0201_0300/s0283_move_zeroes/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 15 | 88.69
 
 #### Day 4 Two Pointers
 
@@ -1144,6 +1149,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0287 |[Find the Duplicate Number](src/main/go/g0201_0300/s0287_find_the_duplicate_number/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Two_Pointers, Bit_Manipulation, Big_O_Time_O(n)_Space_O(n) | 68 | 98.63
 
 #### Day 6
 
@@ -1159,6 +1165,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0240 |[Search a 2D Matrix II](src/main/go/g0201_0300/s0240_search_a_2d_matrix_ii/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Big_O_Time_O(n+m)_Space_O(1) | 11 | 96.10
 
 #### Day 9
 
@@ -1360,6 +1367,11 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0338 |[Counting Bits](src/main/go/g0301_0400/s0338_counting_bits/solution.go)| Easy | Top_100_Liked_Questions, Dynamic_Programming, Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 0 | 100.00
 | 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 73.33
 | 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Big_O_Time_O(n\*log_n)_Space_O(n) | 5 | 91.77
+| 0295 |[Find Median from Data Stream](src/main/go/g0201_0300/s0295_find_median_from_data_stream/medianfinder.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Big_O_Time_O(n\*log_n)_Space_O(n) | 240 | 100.00
+| 0287 |[Find the Duplicate Number](src/main/go/g0201_0300/s0287_find_the_duplicate_number/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Two_Pointers, Bit_Manipulation, Binary_Search_II_Day_5, Big_O_Time_O(n)_Space_O(n) | 68 | 98.63
+| 0283 |[Move Zeroes](src/main/go/g0201_0300/s0283_move_zeroes/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Algorithm_I_Day_3_Two_Pointers, Programming_Skills_I_Day_6_Array, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 15 | 88.69
+| 0240 |[Search a 2D Matrix II](src/main/go/g0201_0300/s0240_search_a_2d_matrix_ii/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Data_Structure_II_Day_4_Array, Binary_Search_II_Day_8, Big_O_Time_O(n+m)_Space_O(1) | 11 | 96.10
+| 0239 |[Sliding Window Maximum](src/main/go/g0201_0300/s0239_sliding_window_maximum/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Heap_Priority_Queue, Sliding_Window, Queue, Monotonic_Queue, Udemy_Arrays, Big_O_Time_O(n\*k)_Space_O(n+k) | 168 | 99.41
 | 0121 |[Best Time to Buy and Sell Stock](src/main/go/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 76 | 99.34
 | 0114 |[Flatten Binary Tree to Linked List](src/main/go/g0101_0200/s0114_flatten_binary_tree_to_linked_list/solution.go)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/go/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
