@@ -1,9 +1,8 @@
 package s0104_maximum_depth_of_binary_tree
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMaxDepthBinaryTree(t *testing.T) {
