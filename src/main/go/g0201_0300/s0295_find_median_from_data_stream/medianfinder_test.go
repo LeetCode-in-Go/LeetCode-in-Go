@@ -9,7 +9,7 @@ func TestMedianFinder(t *testing.T) {
 	medianFinder := Constructor()
 	medianFinder.AddNum(1)
 	medianFinder.AddNum(2)
-	assert.Equal(1.5, medianFinder.FindMedian())
+	assert.Equal(t, 1.5, medianFinder.FindMedian())
 
 	medianFinder.AddNum(3)
 	assert.Equal(t, 2.0, medianFinder.FindMedian())
