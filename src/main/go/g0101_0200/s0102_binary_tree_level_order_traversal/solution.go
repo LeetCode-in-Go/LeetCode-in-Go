@@ -19,7 +19,6 @@ type TreeNode struct {
  * }
  */
 func levelOrder(root *TreeNode) [][]int {
-
 	if root == nil {
 		return [][]int{}
 	}
