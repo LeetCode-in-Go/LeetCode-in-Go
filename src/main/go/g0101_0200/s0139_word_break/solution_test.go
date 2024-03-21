@@ -1,9 +1,8 @@
 package s0139_word_break
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestWordBreak(t *testing.T) {

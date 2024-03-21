@@ -1,9 +1,8 @@
 package s0146_lru_cache
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestLRUCache(t *testing.T) {

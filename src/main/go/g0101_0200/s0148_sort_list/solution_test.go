@@ -1,10 +1,9 @@
 package s0148_sort_list
 
 import (
+	"github.com/stretchr/testify/assert"
 	"fmt"
 	"testing"
-
-	"github.com/stretchr/testify/assert"
 )
 
 func TestSortList(t *testing.T) {

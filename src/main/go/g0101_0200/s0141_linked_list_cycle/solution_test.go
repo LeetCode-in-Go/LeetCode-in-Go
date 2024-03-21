@@ -1,9 +1,8 @@
 package s0141_linked_list_cycle
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestHasCycle(t *testing.T) {
