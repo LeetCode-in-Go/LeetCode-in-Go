@@ -2,9 +2,8 @@ package s0206_reverse_linked_list
 
 import (
 	"fmt"
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestReverseList(t *testing.T) {

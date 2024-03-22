@@ -1,9 +1,8 @@
 package s0207_course_schedule
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestCanFinish(t *testing.T) {

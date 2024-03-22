@@ -1,9 +1,8 @@
 package s0198_house_robber
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestRob(t *testing.T) {

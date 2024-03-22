@@ -1,9 +1,8 @@
 package s0200_number_of_islands
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestNumIslands(t *testing.T) {

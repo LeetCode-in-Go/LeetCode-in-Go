@@ -1,9 +1,8 @@
 package s0189_rotate_array
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestRotate(t *testing.T) {
