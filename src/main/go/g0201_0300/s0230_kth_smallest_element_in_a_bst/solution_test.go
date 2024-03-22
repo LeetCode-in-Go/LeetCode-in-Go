@@ -2,9 +2,8 @@ package s0230_kth_smallest_element_in_a_bst
 
 import (
 	"fmt"
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestKthSmallest(t *testing.T) {

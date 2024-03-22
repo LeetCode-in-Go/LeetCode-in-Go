@@ -1,9 +1,8 @@
 package s0226_invert_binary_tree
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestInvertTree(t *testing.T) {

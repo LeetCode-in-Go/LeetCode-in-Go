@@ -1,9 +1,8 @@
 package s0215_kth_largest_element_in_an_array
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestFindKthLargest(t *testing.T) {

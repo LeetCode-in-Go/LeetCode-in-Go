@@ -1,9 +1,8 @@
 package s0208_implement_trie_prefix_tree
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestTrie(t *testing.T) {

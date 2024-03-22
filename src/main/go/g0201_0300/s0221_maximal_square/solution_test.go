@@ -1,9 +1,8 @@
 package s0221_maximal_square
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestMaximalSquare(t *testing.T) {
