@@ -2,7 +2,6 @@ package s0049_group_anagrams
 
 import (
 	"github.com/stretchr/testify/assert"
-	"reflect"
 	"sort"
 	"testing"
 )
