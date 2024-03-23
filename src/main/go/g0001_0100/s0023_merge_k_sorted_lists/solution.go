@@ -6,19 +6,18 @@ import "container/heap"
 // #Divide_and_Conquer #Merge_Sort #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
 // #2024_03_08_Time_3_ms_(96.74%)_Space_5.5_MB_(25.28%)
 
-/*
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
+/**
  * Definition for singly-linked list.
  * type ListNode struct {
  *     Val int
  *     Next *ListNode
  * }
  */
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func mergeKLists(lists []*ListNode) *ListNode {
 	var h minHeap
 	for _, node := range lists {

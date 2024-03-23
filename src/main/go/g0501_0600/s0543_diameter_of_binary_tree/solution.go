@@ -4,6 +4,12 @@ package s0543_diameter_of_binary_tree
 // #Udemy_Tree_Stack_Queue #Big_O_Time_O(n)_Space_O(n)
 // #2024_03_12_Time_3_ms_(71.60%)_Space_6.8_MB_(5.31%)
 
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -12,20 +18,6 @@ package s0543_diameter_of_binary_tree
  *     Right *TreeNode
  * }
  */
-
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func diameterOfBinaryTree(root *TreeNode) (answer int) {
 	var dfs func(*TreeNode) int
 	dfs = func(node *TreeNode) int {
@@ -40,4 +32,11 @@ func diameterOfBinaryTree(root *TreeNode) (answer int) {
 	dfs(root)
 
 	return answer
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
 }

@@ -74,7 +74,7 @@ func insert(root *node, word string) *node {
 	return root
 }
 
-/*
+/**
  * Your Trie object will be instantiated and called as such:
  * obj := Constructor();
  * obj.Insert(word);

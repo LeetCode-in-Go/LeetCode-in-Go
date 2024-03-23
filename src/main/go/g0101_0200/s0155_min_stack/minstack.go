@@ -40,7 +40,7 @@ func (this *MinStack) GetMin() int {
 	return this.Min
 }
 
-/*
+/**
  * Your MinStack object will be instantiated and called as such:
  * obj := Constructor();
  * obj.Push(val);

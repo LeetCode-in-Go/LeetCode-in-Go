@@ -3,6 +3,12 @@ package s0437_path_sum_iii
 // #Medium #Top_100_Liked_Questions #Depth_First_Search #Tree #Binary_Tree #Level_2_Day_7_Tree
 // #Big_O_Time_O(n)_Space_O(n) #2024_03_12_Time_7_ms_(74.18%)_Space_5.3_MB_(19.02%)
 
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -11,13 +17,6 @@ package s0437_path_sum_iii
  *     Right *TreeNode
  * }
  */
-
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 func pathSum(root *TreeNode, targetSum int) int {
 	mp := make(map[int]int)
 	mp[0] = 1

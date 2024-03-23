@@ -4,20 +4,18 @@ package s0025_reverse_nodes_in_k_group
 // #Udemy_Linked_List #Big_O_Time_O(n)_Space_O(k)
 // #2024_03_08_Time_0_ms_(100.00%)_Space_3.6_MB_(72.87%)
 
-/*
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
+/**
  * Definition for singly-linked list.
  * type ListNode struct {
  *     Val int
  *     Next *ListNode
  * }
  */
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
-// reverseKGroup reverses nodes in k-group in the linked list.
 func reverseKGroup(head *ListNode, k int) *ListNode {
 	if head == nil || head.Next == nil || k == 1 {
 		return head

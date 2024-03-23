@@ -5,6 +5,11 @@ package s0021_merge_two_sorted_lists
 // #Level_1_Day_3_Linked_List #Udemy_Linked_List #Big_O_Time_O(m+n)_Space_O(m+n)
 // #2024_03_07_Time_0_ms_(100.00%)_Space_2.5_MB_(95.02%)
 
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -12,12 +17,6 @@ package s0021_merge_two_sorted_lists
  *     Next *ListNode
  * }
  */
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 	var sortedListNode, tail *ListNode = &ListNode{}, &ListNode{}
 
