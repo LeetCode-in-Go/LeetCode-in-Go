@@ -10,7 +10,7 @@ type Node struct {
 	Random *Node
 }
 
-/*
+/**
  * Definition for a Node.
  * type Node struct {
  *     Val int
