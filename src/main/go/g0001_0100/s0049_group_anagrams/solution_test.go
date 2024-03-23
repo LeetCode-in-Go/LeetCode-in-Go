@@ -1,6 +1,7 @@
 package s0049_group_anagrams
 
 import (
+	"github.com/stretchr/testify/assert"
 	"reflect"
 	"sort"
 	"testing"
@@ -15,23 +16,17 @@ func TestGroupAnagrams(t *testing.T) {
 	for i := range actual {
 		sort.Strings(actual[i])
 	}
-	if !reflect.DeepEqual(actual, expected) {
-		t.Errorf("Expected: %v, but got: %v", expected, actual)
-	}
+	assert.Equal(t, expected, result)
 }
 
 func TestGroupAnagrams2(t *testing.T) {
 	expected := [][]string{{""}}
 	actual := groupAnagrams([]string{""})
-	if !reflect.DeepEqual(actual, expected) {
-		t.Errorf("Expected: %v, but got: %v", expected, actual)
-	}
+	assert.Equal(t, expected, result)
 }
 
 func TestGroupAnagrams3(t *testing.T) {
 	expected := [][]string{{"a"}}
 	actual := groupAnagrams([]string{"a"})
-	if !reflect.DeepEqual(actual, expected) {
-		t.Errorf("Expected: %v, but got: %v", expected, actual)
-	}
+	assert.Equal(t, expected, result)
 }
