@@ -16,17 +16,17 @@ func TestGroupAnagrams(t *testing.T) {
 	for i := range actual {
 		sort.Strings(actual[i])
 	}
-	assert.Equal(t, expected, result)
+	assert.Equal(t, expected, actual)
 }
 
 func TestGroupAnagrams2(t *testing.T) {
 	expected := [][]string{{""}}
 	actual := groupAnagrams([]string{""})
-	assert.Equal(t, expected, result)
+	assert.Equal(t, expected, actual)
 }
 
 func TestGroupAnagrams3(t *testing.T) {
 	expected := [][]string{{"a"}}
 	actual := groupAnagrams([]string{"a"})
-	assert.Equal(t, expected, result)
+	assert.Equal(t, expected, actual)
 }
