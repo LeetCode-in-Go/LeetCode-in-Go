@@ -1,8 +1,8 @@
 package s0322_coin_change
 
-// #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming
-// #Breadth_First_Search #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_20
-// #Level_2_Day_12_Dynamic_Programming #Big_O_Time_O(m*n)_Space_O(amount)
+// #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Breadth_First_Search
+// #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_20
+// #Level_2_Day_12_Dynamic_Programming #Top_Interview_150_1D_DP #Big_O_Time_O(m*n)_Space_O(amount)
 // #2024_03_16_Time_10_ms_(73.33%)_Space_6.4_MB_(71.07%)
 
 func coinChange(coins []int, amount int) int {

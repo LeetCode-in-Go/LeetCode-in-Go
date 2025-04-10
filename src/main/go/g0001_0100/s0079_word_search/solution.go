@@ -1,8 +1,8 @@
 package s0079_word_search
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Matrix #Backtracking
-// #Algorithm_II_Day_11_Recursion_Backtracking #Big_O_Time_O(4^(m*n))_Space_O(m*n)
-// #2024_03_15_Time_103_ms_(79.70%)_Space_2_MB_(58.16%)
+// #Algorithm_II_Day_11_Recursion_Backtracking #Top_Interview_150_Backtracking
+// #Big_O_Time_O(4^(m*n))_Space_O(m*n) #2024_03_15_Time_103_ms_(79.70%)_Space_2_MB_(58.16%)
 
 func exist(board [][]byte, word string) bool {
 	var run func(i, j, k int) bool

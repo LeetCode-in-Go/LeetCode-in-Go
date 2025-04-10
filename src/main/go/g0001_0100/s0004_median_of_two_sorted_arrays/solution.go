@@ -1,7 +1,8 @@
 package s0004_median_of_two_sorted_arrays
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Binary_Search #Divide_and_Conquer
-// #Big_O_Time_O(log(min(N,M)))_Space_O(1) #2024_03_05_Time_9_ms_(72.04%)_Space_4.8_MB_(67.69%)
+// #Top_Interview_150_Binary_Search #Big_O_Time_O(log(min(N,M)))_Space_O(1)
+// #AI_can_be_used_to_solve_the_task #2024_03_05_Time_9_ms_(72.04%)_Space_4.8_MB_(67.69%)
 
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	if len(nums1) > len(nums2) {

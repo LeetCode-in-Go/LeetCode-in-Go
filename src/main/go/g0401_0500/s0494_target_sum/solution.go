@@ -1,7 +1,7 @@
 package s0494_target_sum
 
-// #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Backtracking
-// #Big_O_Time_O(n*(sum+s))_Space_O(n*(sum+s)) #2024_03_12_Time_7_ms_(80.54%)_Space_6.6_MB_(40.47%)
+// #Medium #Array #Dynamic_Programming #Backtracking #Big_O_Time_O(n*(sum+s))_Space_O(n*(sum+s))
+// #2024_03_12_Time_7_ms_(80.54%)_Space_6.6_MB_(40.47%)
 
 import "math"
 

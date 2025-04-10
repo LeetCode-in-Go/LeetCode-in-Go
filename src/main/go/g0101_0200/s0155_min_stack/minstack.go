@@ -1,8 +1,9 @@
 package s0155_min_stack
 
-// #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Stack #Design
+// #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Stack #Design
 // #Data_Structure_II_Day_14_Stack_Queue #Programming_Skills_II_Day_18 #Level_2_Day_16_Design
-// #Udemy_Design #Big_O_Time_O(1)_Space_O(N) #2024_03_22_Time_12_ms_(79.58%)_Space_7.4_MB_(21.27%)
+// #Udemy_Design #Top_Interview_150_Stack #Big_O_Time_O(1)_Space_O(N)
+// #2024_03_22_Time_12_ms_(79.58%)_Space_7.4_MB_(21.27%)
 
 import "math"
 

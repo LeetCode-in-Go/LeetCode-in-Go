@@ -1,8 +1,8 @@
 package s0148_sort_list
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Sorting #Two_Pointers #Linked_List
-// #Divide_and_Conquer #Merge_Sort #Level_2_Day_4_Linked_List #Big_O_Time_O(log(N))_Space_O(log(N))
-// #2024_03_21_Time_40_ms_(97.89%)_Space_7_MB_(83.99%)
+// #Divide_and_Conquer #Merge_Sort #Level_2_Day_4_Linked_List #Top_Interview_150_Divide_and_Conquer
+// #Big_O_Time_O(log(N))_Space_O(log(N)) #2024_03_21_Time_40_ms_(97.89%)_Space_7_MB_(83.99%)
 
 import "slices"
 

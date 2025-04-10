@@ -1,8 +1,8 @@
 package s0207_course_schedule
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Depth_First_Search
-// #Breadth_First_Search #Graph #Topological_Sort #Big_O_Time_O(N)_Space_O(N)
-// #2024_03_22_Time_7_ms_(83.17%)_Space_6.3_MB_(51.07%)
+// #Breadth_First_Search #Graph #Topological_Sort #Top_Interview_150_Graph_General
+// #Big_O_Time_O(N)_Space_O(N) #2024_03_22_Time_7_ms_(83.17%)_Space_6.3_MB_(51.07%)
 
 func canFinish(numCourses int, prerequisites [][]int) bool {
 	graph := map[int][]int{}
