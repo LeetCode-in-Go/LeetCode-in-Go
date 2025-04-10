@@ -1,8 +1,8 @@
 package s0189_rotate_array
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Math #Two_Pointers
-// #Algorithm_I_Day_2_Two_Pointers #Udemy_Arrays #Big_O_Time_O(n)_Space_O(1)
-// #2024_03_22_Time_20_ms_(92.61%)_Space_8.4_MB_(12.16%)
+// #Algorithm_I_Day_2_Two_Pointers #Udemy_Arrays #Top_Interview_150_Array/String
+// #Big_O_Time_O(n)_Space_O(1) #2024_03_22_Time_20_ms_(92.61%)_Space_8.4_MB_(12.16%)
 
 func reverse(nums []int, l, r int) {
 	for l <= r {

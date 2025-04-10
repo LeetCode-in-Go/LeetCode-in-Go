@@ -1,6 +1,6 @@
 package s0647_palindromic_substrings
 
-// #Medium #Top_100_Liked_Questions #String #Dynamic_Programming #Big_O_Time_O(n^2)_Space_O(n)
+// #Medium #String #Dynamic_Programming #Big_O_Time_O(n^2)_Space_O(n)
 // #2024_03_10_Time_0_ms_(100.00%)_Space_2.1_MB_(41.43%)
 
 func expand(a []rune, l int, r int, res *int) {

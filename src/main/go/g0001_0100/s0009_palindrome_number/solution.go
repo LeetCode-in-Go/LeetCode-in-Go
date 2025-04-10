@@ -1,6 +1,7 @@
 package s0009_palindrome_number
 
-// #Easy #Math #Udemy_Integers #2024_03_07_Time_0_ms_(100.00%)_Space_4.3_MB_(99.46%)
+// #Easy #Math #Udemy_Integers #Top_Interview_150_Math
+// #2024_03_07_Time_0_ms_(100.00%)_Space_4.3_MB_(99.46%)
 
 func isPalindrome(x int) bool {
 	if x < 10 {

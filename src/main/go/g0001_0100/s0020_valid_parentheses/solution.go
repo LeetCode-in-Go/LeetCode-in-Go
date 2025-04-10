@@ -1,8 +1,8 @@
 package s0020_valid_parentheses
 
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #String #Stack
-// #Data_Structure_I_Day_9_Stack_Queue #Udemy_Strings #Big_O_Time_O(n)_Space_O(n)
-// #2024_03_07_Time_1_ms_(74.95%)_Space_2_MB_(68.19%)
+// #Data_Structure_I_Day_9_Stack_Queue #Udemy_Strings #Top_Interview_150_Stack
+// #Big_O_Time_O(n)_Space_O(n) #2024_03_07_Time_1_ms_(74.95%)_Space_2_MB_(68.19%)
 
 func isValid(s string) bool {
 	stack := make([]rune, 0)

@@ -1,8 +1,8 @@
 package s0076_minimum_window_substring
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table #Sliding_Window
-// #Level_2_Day_14_Sliding_Window/Two_Pointer #Big_O_Time_O(s.length())_Space_O(1)
-// #2024_03_15_Time_0_ms_(100.00%)_Space_3_MB_(66.67%)
+// #Level_2_Day_14_Sliding_Window/Two_Pointer #Top_Interview_150_Sliding_Window
+// #Big_O_Time_O(s.length())_Space_O(1) #2024_03_15_Time_0_ms_(100.00%)_Space_3_MB_(66.67%)
 
 import "math"
 

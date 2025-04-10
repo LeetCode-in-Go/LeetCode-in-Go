@@ -1,10 +1,10 @@
 package s0023_merge_k_sorted_lists
 
+// #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Heap_Priority_Queue #Linked_List
+// #Divide_and_Conquer #Merge_Sort #Top_Interview_150_Divide_and_Conquer
+// #Big_O_Time_O(k*n*log(k))_Space_O(log(k)) #2024_03_08_Time_3_ms_(96.74%)_Space_5.5_MB_(25.28%)
 import "container/heap"
 
-// #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Heap_Priority_Queue #Linked_List
-// #Divide_and_Conquer #Merge_Sort #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
-// #2024_03_08_Time_3_ms_(96.74%)_Space_5.5_MB_(25.28%)
 
 type ListNode struct {
 	Val  int
