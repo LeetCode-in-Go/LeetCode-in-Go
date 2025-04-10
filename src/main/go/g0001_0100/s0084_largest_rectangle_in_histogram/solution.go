@@ -2,8 +2,8 @@ package s0084_largest_rectangle_in_histogram
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Stack #Monotonic_Stack
 // #Big_O_Time_O(n_log_n)_Space_O(log_n) #2024_03_15_Time_95_ms_(77.81%)_Space_7.8_MB_(91.91%)
-import "math"
 
+import "math"
 
 func largestRectangleArea(heights []int) int {
 	return largestArea(heights, 0, len(heights))
