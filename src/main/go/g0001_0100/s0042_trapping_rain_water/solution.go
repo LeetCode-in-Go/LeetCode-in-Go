@@ -10,17 +10,17 @@ func trap(height []int) int {
 		return 0
 	}
 	l, r := 0, len(height)-1
-	max_left, max_right := height[l], height[r]
+	maxLeft, maxRight := height[l], height[r]
 	res := 0
 	for l < r {
-		if max_left < max_right {
+		if maxLeft < maxRight {
 			l++
-			max_left = max(max_left, height[l])
-			res += max_left - height[l]
+			maxLeft = max(maxLeft, height[l])
+			res += maxLeft - height[l]
 		} else {
 			r--
-			max_right = max(max_right, height[r])
-			res += max_right - height[r]
+			maxRight = max(maxRight, height[r])
+			res += maxRight - height[r]
 		}
 	}
 	return res
