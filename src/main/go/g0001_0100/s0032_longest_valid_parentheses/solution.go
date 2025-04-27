@@ -1,7 +1,7 @@
 package s0032_longest_valid_parentheses
 
 // #Hard #Top_100_Liked_Questions #String #Dynamic_Programming #Stack #Big_O_Time_O(n)_Space_O(1)
-// #2024_03_11_Time_0_ms_(100.00%)_Space_2.3_MB_(100.00%)
+// #2025_04_27_Time_0_ms_(100.00%)_Space_4.28_MB_(96.40%)
 
 func longestValidParentheses(s string) int {
 	max := 0

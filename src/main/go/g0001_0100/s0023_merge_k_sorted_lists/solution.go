@@ -2,7 +2,7 @@ package s0023_merge_k_sorted_lists
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Heap_Priority_Queue #Linked_List
 // #Divide_and_Conquer #Merge_Sort #Top_Interview_150_Divide_and_Conquer
-// #Big_O_Time_O(k*n*log(k))_Space_O(log(k)) #2024_03_08_Time_3_ms_(96.74%)_Space_5.5_MB_(25.28%)
+// #Big_O_Time_O(k*n*log(k))_Space_O(log(k)) #2025_04_27_Time_0_ms_(100.00%)_Space_7.12_MB_(27.34%)
 
 import "container/heap"
 
