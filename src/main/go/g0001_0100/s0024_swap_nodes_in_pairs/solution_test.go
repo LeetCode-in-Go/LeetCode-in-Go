@@ -19,6 +19,13 @@ func TestSwapPairs2(t *testing.T) {
 	assert.Equal(t, expected, output)
 }
 
+func TestSwapPairs3(t *testing.T) {
+	head := createSinglyLinkedList([]int{1, 2, 3})
+	expected := createSinglyLinkedList([]int{2, 1, 3})
+	output := swapPairs(head)
+	assert.Equal(t, expected, output)
+}
+
 // ListNode definition should be included here
 
 func createSinglyLinkedList(vals []int) *ListNode {

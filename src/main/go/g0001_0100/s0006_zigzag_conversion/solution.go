@@ -1,7 +1,7 @@
 package s0006_zigzag_conversion
 
 // #Medium #String #Top_Interview_150_Array/String
-// #2024_03_05_Time_0_ms_(100.00%)_Space_4_MB_(86.83%)
+// #2025_04_27_Time_0_ms_(100.00%)_Space_5.75_MB_(95.79%)
 
 func convert(s string, numRows int) string {
 	topJump := (numRows-2)*2 + 2

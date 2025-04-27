@@ -2,7 +2,7 @@ package s0019_remove_nth_node_from_end_of_list
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Two_Pointers #Linked_List
 // #Algorithm_I_Day_5_Two_Pointers #Level_2_Day_3_Linked_List #Top_Interview_150_Linked_List
-// #Big_O_Time_O(L)_Space_O(L) #2024_03_07_Time_0_ms_(100.00%)_Space_2.2_MB_(19.66%)
+// #Big_O_Time_O(L)_Space_O(L) #2025_04_27_Time_0_ms_(100.00%)_Space_4.16_MB_(48.09%)
 
 type ListNode struct {
 	Val  int
