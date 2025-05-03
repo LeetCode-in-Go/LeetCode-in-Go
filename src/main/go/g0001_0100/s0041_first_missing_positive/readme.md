@@ -2,9 +2,9 @@
 
 Hard
 
-Given an unsorted integer array `nums`, return the smallest missing positive integer.
+Given an unsorted integer array `nums`. Return the _smallest positive integer_ that is _not present_ in `nums`.
 
-You must implement an algorithm that runs in `O(n)` time and uses constant extra space.
+You must implement an algorithm that runs in `O(n)` time and uses `O(1)` auxiliary space.
 
 **Example 1:**
 
@@ -12,7 +12,7 @@ You must implement an algorithm that runs in `O(n)` time and uses constant extra
 
 **Output:** 3
 
-**Explanation:** The numbers in the range [1,2] are all in the array.
+**Explanation:** The numbers in the range [1,2] are all in the array. 
 
 **Example 2:**
 
@@ -20,7 +20,7 @@ You must implement an algorithm that runs in `O(n)` time and uses constant extra
 
 **Output:** 2
 
-**Explanation:** 1 is in the array but 2 is missing.
+**Explanation:** 1 is in the array but 2 is missing. 
 
 **Example 3:**
 
@@ -28,7 +28,7 @@ You must implement an algorithm that runs in `O(n)` time and uses constant extra
 
 **Output:** 1
 
-**Explanation:** The smallest positive integer 1 is missing.
+**Explanation:** The smallest positive integer 1 is missing. 
 
 **Constraints:**
 
