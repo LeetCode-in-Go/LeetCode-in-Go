@@ -1,7 +1,7 @@
 package s0051_n_queens
 
 // #Hard #Top_100_Liked_Questions #Array #Backtracking #Big_O_Time_O(N!)_Space_O(N)
-// #2024_03_13_Time_0_ms_(100.00%)_Space_3.3_MB_(61.83%)
+// #2025_05_05_Time_0_ms_(100.00%)_Space_5.23_MB_(62.71%)
 
 func solveNQueens(n int) [][]string {
 	pos := make([]bool, n+2*n-1+2*n-1)
