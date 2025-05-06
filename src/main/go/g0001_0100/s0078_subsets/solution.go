@@ -2,7 +2,7 @@ package s0078_subsets
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Bit_Manipulation #Backtracking
 // #Algorithm_II_Day_9_Recursion_Backtracking #Udemy_Backtracking/Recursion
-// #Big_O_Time_O(2^n)_Space_O(n*2^n) #2024_03_15_Time_1_ms_(80.53%)_Space_2.4_MB_(60.25%)
+// #Big_O_Time_O(2^n)_Space_O(n*2^n) #2025_05_06_Time_0_ms_(100.00%)_Space_4.31_MB_(21.64%)
 
 func subsets(nums []int) [][]int {
 	var res [][]int
