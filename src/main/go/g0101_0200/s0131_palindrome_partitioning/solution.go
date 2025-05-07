@@ -2,7 +2,7 @@ package s0131_palindrome_partitioning
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
 // #Backtracking #Big_O_Time_O(N*2^N)_Space_O(2^N*N)
-// #2024_03_19_Time_221_ms_(97.16%)_Space_19.1_MB_(89.91%)
+// #2025_05_07_Time_18_ms_(92.42%)_Space_27.26_MB_(16.97%)
 
 func partition(s string) [][]string {
 	var res [][]string
