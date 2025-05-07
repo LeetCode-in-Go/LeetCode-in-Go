@@ -17,7 +17,7 @@ type ListNode struct {
  * }
  */
 func detectCycle(head *ListNode) *ListNode {
-	m := map[*ListNode]bool {}
+	m := map[*ListNode]bool{}
 	for head != nil {
 		if m[head] == true {
 			return head
