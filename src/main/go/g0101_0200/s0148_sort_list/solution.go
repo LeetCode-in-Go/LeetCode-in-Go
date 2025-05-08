@@ -20,19 +20,15 @@ func sortList(head *ListNode) *ListNode {
 	if head == nil || head.Next == nil {
 		return head
 	}
-
 	mid := findMid(head)
-
 	left := sortList(head)
 	right := sortList(mid)
-
 	return merge(left, right)
 }
 
 func findMid(head *ListNode) *ListNode {
 	var prev *ListNode
 	slow, fast := head, head
-
 	for fast != nil && fast.Next != nil {
 		prev = slow
 		slow = slow.Next
