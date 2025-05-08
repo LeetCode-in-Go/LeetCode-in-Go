@@ -3,7 +3,7 @@ package s0169_majority_element
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Sorting #Counting
 // #Divide_and_Conquer #Data_Structure_II_Day_1_Array #Udemy_Famous_Algorithm
 // #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(1)
-// #2024_03_22_Time_15_ms_(70.01%)_Space_6.6_MB_(22.94%)
+// #2025_05_08_Time_0_ms_(100.00%)_Space_8.53_MB_(56.86%)
 
 func majorityElement(nums []int) int {
 	count := 1
