@@ -4,8 +4,6 @@ package s0148_sort_list
 // #Divide_and_Conquer #Merge_Sort #Level_2_Day_4_Linked_List #Top_Interview_150_Divide_and_Conquer
 // #Big_O_Time_O(log(N))_Space_O(log(N)) #2025_05_08_Time_7_ms_(87.91%)_Space_8.75_MB_(91.94%)
 
-import "slices"
-
 type ListNode struct {
 	Val  int
 	Next *ListNode
