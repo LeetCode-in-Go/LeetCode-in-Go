@@ -2,7 +2,7 @@ package s0160_intersection_of_two_linked_lists
 
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Hash_Table #Two_Pointers #Linked_List
 // #Data_Structure_II_Day_11_Linked_List #Udemy_Linked_List #Big_O_Time_O(M+N)_Space_O(1)
-// #2024_03_22_Time_16_ms_(99.84%)_Space_6.8_MB_(74.72%)
+// #2025_05_08_Time_24_ms_(85.37%)_Space_8.62_MB_(59.52%)
 
 type ListNode struct {
 	Val  int
