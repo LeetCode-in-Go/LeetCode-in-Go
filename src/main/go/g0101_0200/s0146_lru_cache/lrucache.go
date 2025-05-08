@@ -2,7 +2,7 @@ package s0146_lru_cache
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Hash_Table #Design #Linked_List
 // #Doubly_Linked_List #Udemy_Linked_List #Top_Interview_150_Linked_List
-// #Big_O_Time_O(1)_Space_O(capacity) #2024_03_21_Time_421_ms_(93.60%)_Space_69_MB_(91.02%)
+// #Big_O_Time_O(1)_Space_O(capacity) #2025_05_08_Time_75_ms_(84.31%)_Space_72.81_MB_(71.88%)
 
 import "container/list"
 
