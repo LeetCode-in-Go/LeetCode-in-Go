@@ -1,8 +1,8 @@
 package s0238_product_of_array_except_self
 
-// #Medium #Top_100_Liked_Questions #Array #Prefix_Sum #Data_Structure_II_Day_5_Array #Udemy_Arrays
-// #Top_Interview_150_Array/String #Big_O_Time_O(n^2)_Space_O(n)
-// #2024_03_23_Time_20_ms_(77.65%)_Space_7.8_MB_(37.12%)
+// #Medium #Top_100_Liked_Questions #Array #Prefix_Sum #LeetCode_75_Array/String
+// #Data_Structure_II_Day_5_Array #Udemy_Arrays #Top_Interview_150_Array/String
+// #Big_O_Time_O(n^2)_Space_O(n) #2025_05_09_Time_0_ms_(100.00%)_Space_9.70_MB_(86.27%)
 
 func productExceptSelf(nums []int) []int {
 	n := len(nums)
