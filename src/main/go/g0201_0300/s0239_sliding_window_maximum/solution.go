@@ -2,7 +2,7 @@ package s0239_sliding_window_maximum
 
 // #Hard #Top_100_Liked_Questions #Array #Heap_Priority_Queue #Sliding_Window #Queue
 // #Monotonic_Queue #Udemy_Arrays #Big_O_Time_O(n*k)_Space_O(n+k)
-// #2024_03_18_Time_168_ms_(99.41%)_Space_9.3_MB_(64.37%)
+// #2025_05_09_Time_10_ms_(98.48%)_Space_19.08_MB_(19.58%)
 
 func maxSlidingWindow(nums []int, k int) []int {
 	if k == 1 {

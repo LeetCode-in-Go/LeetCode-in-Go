@@ -2,7 +2,7 @@ package s0221_maximal_square
 
 // #Medium #Array #Dynamic_Programming #Matrix #Dynamic_Programming_I_Day_16
 // #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(m*n)_Space_O(m*n)
-// #2024_03_22_Time_0_ms_(100.00%)_Space_7_MB_(29.80%)
+// #2025_05_09_Time_1_ms_(93.36%)_Space_8.70_MB_(81.82%)
 
 func maximalSquare(matrix [][]byte) int {
 	m := len(matrix)
