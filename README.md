@@ -149,7 +149,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 1 | 78.69
+| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 4
 
@@ -418,7 +418,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 12 | 79.58
+| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
 #### Day 19
 
@@ -436,7 +436,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 4 | 76.94
+| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
 
 #### Day 2 Matrix Related Problems
 
@@ -607,7 +607,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 4 | 76.94
+| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
 
 #### Day 10 Dynamic Programming
 
@@ -667,7 +667,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0148 |[Sort List](src/main/go/g0101_0200/s0148_sort_list/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(log(N))_Space_O(log(N)) | 40 | 97.89
+| 0148 |[Sort List](src/main/go/g0101_0200/s0148_sort_list/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(log(N))_Space_O(log(N)) | 7 | 87.91
 
 #### Day 5 Greedy
 
@@ -714,7 +714,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 1 | 78.69
+| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 73.33
 
 #### Day 13 Dynamic Programming
@@ -741,7 +741,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 12 | 79.58
+| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 | 0208 |[Implement Trie (Prefix Tree)](src/main/go/g0201_0300/s0208_implement_trie_prefix_tree/trie.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 40 | 94.90
 
 #### Day 17 Interval
@@ -801,7 +801,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0121 |[Best Time to Buy and Sell Stock](src/main/go/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0283 |[Move Zeroes](src/main/go/g0201_0300/s0283_move_zeroes/solution.go)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 15 | 88.69
 | 0001 |[Two Sum](src/main/go/g0001_0100/s0001_two_sum/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 0 | 100.00
-| 0189 |[Rotate Array](src/main/go/g0101_0200/s0189_rotate_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 20 | 92.61
+| 0189 |[Rotate Array](src/main/go/g0101_0200/s0189_rotate_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0055 |[Jump Game](src/main/go/g0001_0100/s0055_jump_game/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0075 |[Sort Colors](src/main/go/g0001_0100/s0075_sort_colors/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0238 |[Product of Array Except Self](src/main/go/g0201_0300/s0238_product_of_array_except_self/solution.go)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 20 | 77.65
@@ -820,7 +820,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0053 |[Maximum Subarray](src/main/go/g0001_0100/s0053_maximum_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-| 0169 |[Majority Element](src/main/go/g0101_0200/s0169_majority_element/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 15 | 70.01
+| 0169 |[Majority Element](src/main/go/g0101_0200/s0169_majority_element/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Udemy Sorting Algorithms
 
@@ -846,11 +846,11 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0141 |[Linked List Cycle](src/main/go/g0101_0200/s0141_linked_list_cycle/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 76.55
 | 0206 |[Reverse Linked List](src/main/go/g0201_0300/s0206_reverse_linked_list/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 2 | 76.97
 | 0021 |[Merge Two Sorted Lists](src/main/go/g0001_0100/s0021_merge_two_sorted_lists/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
-| 0160 |[Intersection of Two Linked Lists](src/main/go/g0101_0200/s0160_intersection_of_two_linked_lists/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 16 | 99.84
+| 0160 |[Intersection of Two Linked Lists](src/main/go/g0101_0200/s0160_intersection_of_two_linked_lists/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 24 | 85.37
 | 0234 |[Palindrome Linked List](src/main/go/g0201_0300/s0234_palindrome_linked_list/solution.go)| Easy | Top_100_Liked_Questions, Two_Pointers, Stack, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 104 | 97.77
 | 0138 |[Copy List with Random Pointer](src/main/go/g0101_0200/s0138_copy_list_with_random_pointer/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0025 |[Reverse Nodes in k-Group](src/main/go/g0001_0100/s0025_reverse_nodes_in_k_group/solution.go)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
-| 0146 |[LRU Cache](src/main/go/g0101_0200/s0146_lru_cache/lrucache.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 421 | 93.60
+| 0146 |[LRU Cache](src/main/go/g0101_0200/s0146_lru_cache/lrucache.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 75 | 84.31
 
 #### Udemy Tree Stack Queue
 
@@ -875,7 +875,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 4 | 76.94
+| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
 
 #### Udemy Dynamic Programming
 
@@ -883,7 +883,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0139 |[Word Break](src/main/go/g0101_0200/s0139_word_break/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
 | 0152 |[Maximum Product Subarray](src/main/go/g0101_0200/s0152_maximum_product_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 1 | 78.69
+| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0064 |[Minimum Path Sum](src/main/go/g0001_0100/s0064_minimum_path_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 | 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 5 | 91.77
@@ -911,7 +911,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 12 | 79.58
+| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
 ### Top Interview 150
 
@@ -919,8 +919,8 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0169 |[Majority Element](src/main/go/g0101_0200/s0169_majority_element/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 15 | 70.01
-| 0189 |[Rotate Array](src/main/go/g0101_0200/s0189_rotate_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 20 | 92.61
+| 0169 |[Majority Element](src/main/go/g0101_0200/s0169_majority_element/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0189 |[Rotate Array](src/main/go/g0101_0200/s0189_rotate_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0121 |[Best Time to Buy and Sell Stock](src/main/go/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0055 |[Jump Game](src/main/go/g0001_0100/s0055_jump_game/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0045 |[Jump Game II](src/main/go/g0001_0100/s0045_jump_game_ii/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
@@ -968,7 +968,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0020 |[Valid Parentheses](src/main/go/g0001_0100/s0020_valid_parentheses/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 12 | 79.58
+| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
 #### Top Interview 150 Linked List
 
@@ -980,7 +980,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0138 |[Copy List with Random Pointer](src/main/go/g0101_0200/s0138_copy_list_with_random_pointer/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0025 |[Reverse Nodes in k-Group](src/main/go/g0001_0100/s0025_reverse_nodes_in_k_group/solution.go)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
 | 0019 |[Remove Nth Node From End of List](src/main/go/g0001_0100/s0019_remove_nth_node_from_end_of_list/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
-| 0146 |[LRU Cache](src/main/go/g0101_0200/s0146_lru_cache/lrucache.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 421 | 93.60
+| 0146 |[LRU Cache](src/main/go/g0101_0200/s0146_lru_cache/lrucache.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 75 | 84.31
 
 #### Top Interview 150 Binary Tree General
 
@@ -1011,7 +1011,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 4 | 76.94
+| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
 | 0207 |[Course Schedule](src/main/go/g0201_0300/s0207_course_schedule/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Big_O_Time_O(N)_Space_O(N) | 7 | 83.17
 
 #### Top Interview 150 Graph BFS
@@ -1039,7 +1039,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0148 |[Sort List](src/main/go/g0101_0200/s0148_sort_list/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(log(N))_Space_O(log(N)) | 40 | 97.89
+| 0148 |[Sort List](src/main/go/g0101_0200/s0148_sort_list/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(log(N))_Space_O(log(N)) | 7 | 87.91
 | 0023 |[Merge k Sorted Lists](src/main/go/g0001_0100/s0023_merge_k_sorted_lists/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 0 | 100.00
 
 #### Top Interview 150 Kadane's Algorithm
@@ -1083,7 +1083,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 1 | 78.69
+| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0139 |[Word Break](src/main/go/g0101_0200/s0139_word_break/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
 | 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 73.33
 | 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 5 | 91.77
@@ -1190,7 +1190,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0136 |[Single Number](src/main/go/g0101_0200/s0136_single_number/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, LeetCode_75_Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-| 0169 |[Majority Element](src/main/go/g0101_0200/s0169_majority_element/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 15 | 70.01
+| 0169 |[Majority Element](src/main/go/g0101_0200/s0169_majority_element/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0015 |[3Sum](src/main/go/g0001_0100/s0015_3sum/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 12 | 99.83
 
 #### Day 2 Array
@@ -1253,7 +1253,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0160 |[Intersection of Two Linked Lists](src/main/go/g0101_0200/s0160_intersection_of_two_linked_lists/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 16 | 99.84
+| 0160 |[Intersection of Two Linked Lists](src/main/go/g0101_0200/s0160_intersection_of_two_linked_lists/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 24 | 85.37
 
 #### Day 12 Linked List
 
@@ -1271,7 +1271,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 12 | 79.58
+| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 
 #### Day 15 Tree
 
@@ -1325,7 +1325,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0189 |[Rotate Array](src/main/go/g0101_0200/s0189_rotate_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 20 | 92.61
+| 0189 |[Rotate Array](src/main/go/g0101_0200/s0189_rotate_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 3 Two Pointers
 
@@ -1383,7 +1383,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 1 | 78.69
+| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 13 Bit Manipulation
 
@@ -1434,7 +1434,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 4 | 76.94
+| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
 
 #### Day 7 Breadth First Search Depth First Search
 
@@ -1626,16 +1626,16 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0208 |[Implement Trie (Prefix Tree)](src/main/go/g0201_0300/s0208_implement_trie_prefix_tree/trie.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Level_2_Day_16_Design, Udemy_Trie_and_Heap, Top_Interview_150_Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 40 | 94.90
 | 0207 |[Course Schedule](src/main/go/g0201_0300/s0207_course_schedule/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Top_Interview_150_Graph_General, Big_O_Time_O(N)_Space_O(N) | 7 | 83.17
 | 0206 |[Reverse Linked List](src/main/go/g0201_0300/s0206_reverse_linked_list/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_8_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 2 | 76.97
-| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search, Graph_Theory_I_Day_1_Matrix_Related_Problems, Level_1_Day_9_Graph/BFS/DFS, Udemy_Graph, Top_Interview_150_Graph_General, Big_O_Time_O(M\*N)_Space_O(M\*N) | 4 | 76.94
-| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_3, Level_2_Day_12_Dynamic_Programming, Udemy_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(n)_Space_O(n) | 1 | 78.69
-| 0189 |[Rotate Array](src/main/go/g0101_0200/s0189_rotate_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Algorithm_I_Day_2_Two_Pointers, Udemy_Arrays, Top_Interview_150_Array/String, Big_O_Time_O(n)_Space_O(1) | 20 | 92.61
-| 0169 |[Majority Element](src/main/go/g0101_0200/s0169_majority_element/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Data_Structure_II_Day_1_Array, Udemy_Famous_Algorithm, Top_Interview_150_Array/String, Big_O_Time_O(n)_Space_O(1) | 15 | 70.01
-| 0160 |[Intersection of Two Linked Lists](src/main/go/g0101_0200/s0160_intersection_of_two_linked_lists/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_II_Day_11_Linked_List, Udemy_Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 16 | 99.84
-| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Data_Structure_II_Day_14_Stack_Queue, Programming_Skills_II_Day_18, Level_2_Day_16_Design, Udemy_Design, Top_Interview_150_Stack, Big_O_Time_O(1)_Space_O(N) | 12 | 79.58
+| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search, Graph_Theory_I_Day_1_Matrix_Related_Problems, Level_1_Day_9_Graph/BFS/DFS, Udemy_Graph, Top_Interview_150_Graph_General, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
+| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_3, Level_2_Day_12_Dynamic_Programming, Udemy_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0189 |[Rotate Array](src/main/go/g0101_0200/s0189_rotate_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Algorithm_I_Day_2_Two_Pointers, Udemy_Arrays, Top_Interview_150_Array/String, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0169 |[Majority Element](src/main/go/g0101_0200/s0169_majority_element/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Data_Structure_II_Day_1_Array, Udemy_Famous_Algorithm, Top_Interview_150_Array/String, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0160 |[Intersection of Two Linked Lists](src/main/go/g0101_0200/s0160_intersection_of_two_linked_lists/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_II_Day_11_Linked_List, Udemy_Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 24 | 85.37
+| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Data_Structure_II_Day_14_Stack_Queue, Programming_Skills_II_Day_18, Level_2_Day_16_Design, Udemy_Design, Top_Interview_150_Stack, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
 | 0153 |[Find Minimum in Rotated Sorted Array](src/main/go/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/solution.go)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_II_Day_2_Binary_Search, Binary_Search_I_Day_12, Udemy_Binary_Search, Top_Interview_150_Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 | 0152 |[Maximum Product Subarray](src/main/go/g0101_0200/s0152_maximum_product_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Dynamic_Programming_I_Day_6, Level_2_Day_13_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-| 0148 |[Sort List](src/main/go/g0101_0200/s0148_sort_list/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Level_2_Day_4_Linked_List, Top_Interview_150_Divide_and_Conquer, Big_O_Time_O(log(N))_Space_O(log(N)) | 40 | 97.89
-| 0146 |[LRU Cache](src/main/go/g0101_0200/s0146_lru_cache/lrucache.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Udemy_Linked_List, Top_Interview_150_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 421 | 93.60
+| 0148 |[Sort List](src/main/go/g0101_0200/s0148_sort_list/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Level_2_Day_4_Linked_List, Top_Interview_150_Divide_and_Conquer, Big_O_Time_O(log(N))_Space_O(log(N)) | 7 | 87.91
+| 0146 |[LRU Cache](src/main/go/g0101_0200/s0146_lru_cache/lrucache.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Udemy_Linked_List, Top_Interview_150_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 75 | 84.31
 | 0142 |[Linked List Cycle II](src/main/go/g0101_0200/s0142_linked_list_cycle_ii/solution.go)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_II_Day_10_Linked_List, Level_1_Day_4_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0141 |[Linked List Cycle](src/main/go/g0101_0200/s0141_linked_list_cycle/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_I_Day_7_Linked_List, Udemy_Linked_List, Top_Interview_150_Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 76.55
 | 0139 |[Word Break](src/main/go/g0101_0200/s0139_word_break/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Algorithm_II_Day_15_Dynamic_Programming, Dynamic_Programming_I_Day_9, Udemy_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
