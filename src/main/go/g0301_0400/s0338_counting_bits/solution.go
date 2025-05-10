@@ -1,7 +1,8 @@
 package s0338_counting_bits
 
-// #Easy #Dynamic_Programming #Bit_Manipulation #Udemy_Bit_Manipulation
-// #Big_O_Time_O(num)_Space_O(num) #2024_03_16_Time_0_ms_(100.00%)_Space_4.7_MB_(25.18%)
+// #Easy #Dynamic_Programming #Bit_Manipulation #LeetCode_75_Bit_Manipulation
+// #Udemy_Bit_Manipulation #Big_O_Time_O(num)_Space_O(num)
+// #2025_05_10_Time_0_ms_(100.00%)_Space_6.48_MB_(48.26%)
 
 func countBits(num int) []int {
 	result := make([]int, num+1)
