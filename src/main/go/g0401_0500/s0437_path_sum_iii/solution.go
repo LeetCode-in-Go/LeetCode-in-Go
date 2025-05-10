@@ -1,7 +1,7 @@
 package s0437_path_sum_iii
 
-// #Medium #Depth_First_Search #Tree #Binary_Tree #Level_2_Day_7_Tree #Big_O_Time_O(n)_Space_O(n)
-// #2024_03_12_Time_7_ms_(74.18%)_Space_5.3_MB_(19.02%)
+// #Medium #Depth_First_Search #Tree #Binary_Tree #LeetCode_75_Binary_Tree/DFS #Level_2_Day_7_Tree
+// #Big_O_Time_O(n)_Space_O(n) #2025_05_10_Time_0_ms_(100.00%)_Space_6.94_MB_(22.90%)
 
 type TreeNode struct {
 	Val   int

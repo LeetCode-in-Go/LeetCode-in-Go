@@ -1,7 +1,8 @@
 package s0394_decode_string
 
-// #Medium #Top_100_Liked_Questions #String #Stack #Recursion #Level_1_Day_14_Stack #Udemy_Strings
-// #Big_O_Time_O(n)_Space_O(n) #2024_03_16_Time_1_ms_(76.33%)_Space_2.2_MB_(26.06%)
+// #Medium #Top_100_Liked_Questions #String #Stack #Recursion #LeetCode_75_Stack
+// #Level_1_Day_14_Stack #Udemy_Strings #Big_O_Time_O(n)_Space_O(n)
+// #2025_05_10_Time_0_ms_(100.00%)_Space_4.00_MB_(85.31%)
 
 import (
 	"strings"
