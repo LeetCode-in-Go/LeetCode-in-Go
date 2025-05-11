@@ -1,7 +1,7 @@
 package s0560_subarray_sum_equals_k
 
 // #Medium #Top_100_Liked_Questions #Array #Hash_Table #Prefix_Sum #Data_Structure_II_Day_5_Array
-// #Big_O_Time_O(n)_Space_O(n) #2024_03_10_Time_40_ms_(70.56%)_Space_7.4_MB_(50.68%)
+// #Big_O_Time_O(n)_Space_O(n) #2025_05_11_Time_11_ms_(93.74%)_Space_9.28_MB_(56.67%)
 
 func subarraySum(nums []int, k int) int {
 	tempSum := 0
