@@ -27,3 +27,12 @@ jobs:
 
       - name: test
         run: go test -short -coverprofile=coverage.txt -covermode=atomic ./...
+
+      - name: SonarCloud Scan
+        uses: sonarsource/sonarqube-scan-action@v4
+        with:
+          args: >
+            -Dsonar.go.coverage.reportPaths=coverage.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SONAR_TOKEN: d1d8713450ed2bd5ff199c5664f3bebb3c610767
