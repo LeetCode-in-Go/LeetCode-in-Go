@@ -4,15 +4,11 @@ package s0082_remove_duplicates_from_sorted_list_ii
 // #Algorithm_II_Day_3_Two_Pointers #Top_Interview_150_Linked_List
 // #2025_05_14_Time_0_ms_(100.00%)_Space_4.75_MB_(70.34%)
 
-import (
-	"github.com/LeetCode-in-Go/LeetCode-in-Go/src/main/go/com_github_leetcode/list_node"
-)
-
-func deleteDuplicates(head *list_node.ListNode) *list_node.ListNode {
+func deleteDuplicates(head *ListNode) *ListNode {
 	if head == nil || head.Next == nil {
 		return head
 	}
-	dummy := &list_node.ListNode{Val: 0}
+	dummy := &ListNode{Val: 0}
 	prev := dummy
 	prev.Next = head
 	curr := head.Next
