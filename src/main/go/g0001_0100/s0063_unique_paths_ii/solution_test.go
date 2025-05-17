@@ -1,9 +1,8 @@
 package s0063_unique_paths_ii
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestUniquePathsWithObstacles(t *testing.T) {
