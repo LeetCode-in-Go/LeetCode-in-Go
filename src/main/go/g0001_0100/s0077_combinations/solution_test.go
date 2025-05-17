@@ -1,9 +1,8 @@
 package s0077_combinations
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestCombine(t *testing.T) {

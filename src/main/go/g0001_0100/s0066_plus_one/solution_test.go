@@ -1,9 +1,8 @@
 package s0066_plus_one
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestPlusOne(t *testing.T) {

@@ -1,9 +1,8 @@
 package s0061_rotate_list
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestRotateRight(t *testing.T) {

@@ -1,9 +1,8 @@
 package s0080_remove_duplicates_from_sorted_array_ii
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestRemoveDuplicates(t *testing.T) {

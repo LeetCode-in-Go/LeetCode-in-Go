@@ -1,9 +1,8 @@
 package s0067_add_binary
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestAddBinary(t *testing.T) {

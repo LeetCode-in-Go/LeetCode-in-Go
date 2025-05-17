@@ -1,9 +1,8 @@
 package s0068_text_justification
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestFullJustify(t *testing.T) {
