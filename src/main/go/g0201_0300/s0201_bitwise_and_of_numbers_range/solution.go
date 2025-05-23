@@ -46,7 +46,3 @@ func rangeBitwiseAnd(left int, right int) int {
 	}
 	return right & int(masks[bits.LeadingZeros32(uint32(left^right))])
 }
-
-func decode(s string) string {
-	return s
-}
