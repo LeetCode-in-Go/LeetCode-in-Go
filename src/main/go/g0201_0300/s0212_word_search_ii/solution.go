@@ -95,7 +95,3 @@ func dfs(board [][]byte, i, j int, cur *Tree, collected *[]string) {
 	}
 	board[i][j] = c
 }
-
-func decode(s string) string {
-	return s
-}
