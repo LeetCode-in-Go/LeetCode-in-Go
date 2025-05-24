@@ -1185,7 +1185,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0215 |[Kth Largest Element in an Array](src/main/go/g0201_0300/s0215_kth_largest_element_in_an_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, LeetCode_75_Heap/Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 17 | 83.49
 | 0502 |[IPO](src/main/go/g0501_0600/s0502_ipo/solution.go)| Hard | Array, Sorting, Greedy, Heap_Priority_Queue | 62 | 91.95
-| 0373 |[Find K Pairs with Smallest Sums](src/main/go/g0301_0400/s0373_find_k_pairs_with_smallest_sums/priorrity_queue.go)| |||
+| 0373 |[Find K Pairs with Smallest Sums](src/main/go/g0301_0400/s0373_find_k_pairs_with_smallest_sums/solution.go)| Medium | Array, Heap_Priority_Queue | 21 | 90.40
 | 0295 |[Find Median from Data Stream](src/main/go/g0201_0300/s0295_find_median_from_data_stream/medianfinder.go)| Hard | Top_100_Liked_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Big_O_Time_O(n\*log_n)_Space_O(n) | 59 | 96.70
 
 #### Top Interview 150 Bit Manipulation
@@ -1782,7 +1782,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0392 |[Is Subsequence](src/main/go/g0301_0400/s0392_is_subsequence/solution.go)| Easy | String, Dynamic_Programming, Two_Pointers, LeetCode_75_Two_Pointers, Dynamic_Programming_I_Day_19, Level_1_Day_2_String, Udemy_Two_Pointers, Top_Interview_150_Two_Pointers | 0 | 100.00
 | 0383 |[Ransom Note](src/main/go/g0301_0400/s0383_ransom_note/solution.go)| Easy | String, Hash_Table, Counting, Data_Structure_I_Day_6_String, Top_Interview_150_Hashmap | 0 | 100.00
 | 0380 |[Insert Delete GetRandom O(1)](src/main/go/g0301_0400/s0380_insert_delete_getrandom_o1/randomizedset.go)| Medium | Array, Hash_Table, Math, Design, Randomized, Programming_Skills_II_Day_20, Top_Interview_150_Array/String | 47 | 87.65
-| 0373 |[Find K Pairs with Smallest Sums](src/main/go/g0301_0400/s0373_find_k_pairs_with_smallest_sums/priorrity_queue.go)| |||
+| 0373 |[Find K Pairs with Smallest Sums](src/main/go/g0301_0400/s0373_find_k_pairs_with_smallest_sums/solution.go)| Medium | Array, Heap_Priority_Queue, Top_Interview_150_Heap | 21 | 90.40
 | 0347 |[Top K Frequent Elements](src/main/go/g0301_0400/s0347_top_k_frequent_elements/solution.go)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Data_Structure_II_Day_20_Heap_Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(k) | 0 | 100.00
 | 0338 |[Counting Bits](src/main/go/g0301_0400/s0338_counting_bits/solution.go)| Easy | Dynamic_Programming, Bit_Manipulation, LeetCode_75_Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 0 | 100.00
 | 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 79.59
