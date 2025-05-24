@@ -10,17 +10,14 @@ func snakesAndLadders(board [][]int) int {
 	queue := []int{1}
 	visited[0] = true
 	step := 0
-
 	for len(queue) > 0 {
 		queueSize := len(queue)
 		for i := 0; i < queueSize; i++ {
 			previousLabel := queue[0]
 			queue = queue[1:]
-
 			if previousLabel == target {
 				return step
 			}
-
 			for currentLabel := previousLabel + 1; currentLabel <= min(target, previousLabel+6); currentLabel++ {
 				if visited[currentLabel-1] {
 					continue
@@ -36,7 +33,6 @@ func snakesAndLadders(board [][]int) int {
 		}
 		step++
 	}
-
 	return -1
 }
 
