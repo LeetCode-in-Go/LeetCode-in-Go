@@ -43,5 +43,5 @@ func (this *RandomizedSet) Remove(val int) bool {
 }
 
 func (this *RandomizedSet) GetRandom() int {
-	return this.list[rand.Intn(len(this.list))]
+	return this.list[rand.Intn(len(this.list))] // NOSONAR
 }
