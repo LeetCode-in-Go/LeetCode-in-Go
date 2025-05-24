@@ -2,7 +2,7 @@ package s0242_valid_anagram
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestIsAnagram(t *testing.T) {

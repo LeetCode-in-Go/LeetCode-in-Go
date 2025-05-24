@@ -1,9 +1,8 @@
 package s0392_is_subsequence
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestIsSubsequence(t *testing.T) {

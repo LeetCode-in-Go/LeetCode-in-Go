@@ -2,7 +2,7 @@ package s0383_ransom_note
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestCanConstruct(t *testing.T) {

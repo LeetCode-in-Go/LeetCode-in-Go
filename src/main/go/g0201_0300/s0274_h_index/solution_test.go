@@ -2,7 +2,7 @@ package s0274_h_index
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestHIndex(t *testing.T) {

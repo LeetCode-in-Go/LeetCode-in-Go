@@ -2,7 +2,7 @@ package s0380_insert_delete_getrandom_o1
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestRandomizedSet(t *testing.T) {

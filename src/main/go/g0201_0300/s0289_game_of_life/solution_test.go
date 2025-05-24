@@ -2,7 +2,7 @@ package s0289_game_of_life
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestGameOfLife(t *testing.T) {

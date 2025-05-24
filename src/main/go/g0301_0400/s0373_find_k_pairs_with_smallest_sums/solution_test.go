@@ -2,7 +2,7 @@ package s0373_find_k_pairs_with_smallest_sums
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestKSmallestPairs(t *testing.T) {

@@ -2,7 +2,7 @@ package s0228_summary_ranges
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestSummaryRanges(t *testing.T) {

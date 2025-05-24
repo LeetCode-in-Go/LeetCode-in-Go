@@ -2,7 +2,7 @@ package s0222_count_complete_tree_nodes
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestCountNodes(t *testing.T) {

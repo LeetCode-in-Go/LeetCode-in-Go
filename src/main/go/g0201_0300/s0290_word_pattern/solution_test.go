@@ -2,7 +2,7 @@ package s0290_word_pattern
 
 import (
 	"github.com/stretchr/testify/assert"
-    "testing"
+	"testing"
 )
 
 func TestWordPattern(t *testing.T) {
