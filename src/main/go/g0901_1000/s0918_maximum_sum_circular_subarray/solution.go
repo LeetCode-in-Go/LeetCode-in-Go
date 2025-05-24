@@ -10,7 +10,6 @@ func maxSubarraySumCircular(nums []int) int {
 	curMax := 0
 	minSum := nums[0]
 	curMin := 0
-
 	for _, num := range nums {
 		total += num
 		curMax = max(curMax+num, num)
@@ -18,7 +17,6 @@ func maxSubarraySumCircular(nums []int) int {
 		curMin = min(curMin+num, num)
 		minSum = min(minSum, curMin)
 	}
-
 	if maxSum > 0 {
 		return max(maxSum, total-minSum)
 	}
