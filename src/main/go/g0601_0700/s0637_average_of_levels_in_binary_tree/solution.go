@@ -14,7 +14,6 @@ package s0637_average_of_levels_in_binary_tree
 func averageOfLevels(root *TreeNode) []float64 {
 	levelSums := make(map[int][]float64)
 	helper(root, levelSums, 0)
-
 	result := make([]float64, len(levelSums))
 	for level, pair := range levelSums {
 		result[level] = pair[1] / pair[0]
@@ -26,16 +25,13 @@ func helper(root *TreeNode, levelSums map[int][]float64, level int) {
 	if root == nil {
 		return
 	}
-
 	if _, exists := levelSums[level]; !exists {
 		levelSums[level] = []float64{0, 0}
 	}
-
 	pair := levelSums[level]
 	pair[0]++                    // count
 	pair[1] += float64(root.Val) // sum
 	levelSums[level] = pair
-
 	helper(root.Left, levelSums, level+1)
 	helper(root.Right, levelSums, level+1)
 }
