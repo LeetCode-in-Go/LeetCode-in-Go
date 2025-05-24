@@ -166,6 +166,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0053 |[Maximum Subarray](src/main/go/g0001_0100/s0053_maximum_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0918 |[Maximum Sum Circular Subarray](src/main/go/g0901_1000/s0918_maximum_sum_circular_subarray/solution.go)| Medium | Array, Dynamic_Programming, Divide_and_Conquer, Queue, Monotonic_Queue | 0 | 100.00
 
 #### Day 6
 
@@ -511,6 +512,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0433 |[Minimum Genetic Mutation](src/main/go/g0401_0500/s0433_minimum_genetic_mutation/solution.go)| Medium | String, Hash_Table, Breadth_First_Search | 0 | 100.00
 | 0127 |[Word Ladder](src/main/go/g0101_0200/s0127_word_ladder/solution.go)| Hard | Top_Interview_Questions, String, Hash_Table, Breadth_First_Search | 17 | 97.47
 
 #### Day 13 Graph Theory
@@ -1045,6 +1047,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0228 |[Summary Ranges](src/main/go/g0201_0300/s0228_summary_ranges/solution.go)| Easy | Array | 0 | 100.00
 | 0056 |[Merge Intervals](src/main/go/g0001_0100/s0056_merge_intervals/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 0 | 100.00
 | 0057 |[Insert Interval](src/main/go/g0001_0100/s0057_insert_interval/solution.go)| Medium | Array | 0 | 100.00
+| 0452 |[Minimum Number of Arrows to Burst Balloons](src/main/go/g0401_0500/s0452_minimum_number_of_arrows_to_burst_balloons/solution.go)| Medium | Array, Sorting, Greedy, LeetCode_75_Intervals | 32 | 94.66
 
 #### Top Interview 150 Stack
 
@@ -1096,6 +1099,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0199 |[Binary Tree Right Side View](src/main/go/g0101_0200/s0199_binary_tree_right_side_view/solution.go)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/BFS | 0 | 100.00
+| 0637 |[Average of Levels in Binary Tree](src/main/go/g0601_0700/s0637_average_of_levels_in_binary_tree/solution.go)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 0 | 100.00
 | 0102 |[Binary Tree Level Order Traversal](src/main/go/g0101_0200/s0102_binary_tree_level_order_traversal/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0103 |[Binary Tree Zigzag Level Order Traversal](src/main/go/g0101_0200/s0103_binary_tree_zigzag_level_order_traversal/solution.go)| Medium | Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree | 0 | 100.00
 
@@ -1103,6 +1107,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0530 |[Minimum Absolute Difference in BST](src/main/go/g0501_0600/s0530_minimum_absolute_difference_in_bst/solution.go)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Binary_Search_Tree | 0 | 100.00
 | 0230 |[Kth Smallest Element in a BST](src/main/go/g0201_0300/s0230_kth_smallest_element_in_a_bst/solution.go)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0098 |[Validate Binary Search Tree](src/main/go/g0001_0100/s0098_validate_binary_search_tree/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
@@ -1113,6 +1118,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
 | 0130 |[Surrounded Regions](src/main/go/g0101_0200/s0130_surrounded_regions/solution.go)| Medium | Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find | 0 | 100.00
 | 0133 |[Clone Graph](src/main/go/g0101_0200/s0133_clone_graph/solution.go)| Medium | Hash_Table, Depth_First_Search, Breadth_First_Search, Graph | 0 | 100.00
+| 0399 |[Evaluate Division](src/main/go/g0301_0400/s0399_evaluate_division/solution.go)| Medium | Array, Depth_First_Search, Breadth_First_Search, Graph, Union_Find, Shortest_Path, LeetCode_75_Graphs/DFS | 0 | 100.00
 | 0207 |[Course Schedule](src/main/go/g0201_0300/s0207_course_schedule/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0210 |[Course Schedule II](src/main/go/g0201_0300/s0210_course_schedule_ii/solution.go)| Medium | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort | 0 | 100.00
 
@@ -1120,6 +1126,8 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0909 |[Snakes and Ladders](src/main/go/g0901_1000/s0909_snakes_and_ladders/solution.go)| Medium | Array, Breadth_First_Search, Matrix | 0 | 100.00
+| 0433 |[Minimum Genetic Mutation](src/main/go/g0401_0500/s0433_minimum_genetic_mutation/solution.go)| Medium | String, Hash_Table, Breadth_First_Search | 0 | 100.00
 | 0127 |[Word Ladder](src/main/go/g0101_0200/s0127_word_ladder/solution.go)| Hard | Top_Interview_Questions, String, Hash_Table, Breadth_First_Search | 17 | 97.47
 
 #### Top Interview 150 Trie
@@ -1147,6 +1155,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0108 |[Convert Sorted Array to Binary Search Tree](src/main/go/g0101_0200/s0108_convert_sorted_array_to_binary_search_tree/solution.go)| Easy | Top_Interview_Questions, Array, Tree, Binary_Tree, Binary_Search_Tree, Divide_and_Conquer | 0 | 100.00
 | 0148 |[Sort List](src/main/go/g0101_0200/s0148_sort_list/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(log(N))_Space_O(log(N)) | 7 | 87.91
+| 0427 |[Construct Quad Tree](src/main/go/g0401_0500/s0427_construct_quad_tree/solution.go)| Medium | Array, Tree, Matrix, Divide_and_Conquer | 0 | 100.00
 | 0023 |[Merge k Sorted Lists](src/main/go/g0001_0100/s0023_merge_k_sorted_lists/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 0 | 100.00
 
 #### Top Interview 150 Kadane's Algorithm
@@ -1154,6 +1163,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0053 |[Maximum Subarray](src/main/go/g0001_0100/s0053_maximum_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0918 |[Maximum Sum Circular Subarray](src/main/go/g0901_1000/s0918_maximum_sum_circular_subarray/solution.go)| Medium | Array, Dynamic_Programming, Divide_and_Conquer, Queue, Monotonic_Queue | 0 | 100.00
 
 #### Top Interview 150 Binary Search
 
@@ -1173,6 +1183,7 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0215 |[Kth Largest Element in an Array](src/main/go/g0201_0300/s0215_kth_largest_element_in_an_array/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, LeetCode_75_Heap/Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 17 | 83.49
 | 0373 |[Find K Pairs with Smallest Sums](src/main/go/g0301_0400/s0373_find_k_pairs_with_smallest_sums/solution.go)| Medium | Array, Heap_Priority_Queue | 21 | 90.40
+| 0502 |[IPO](src/main/go/g0501_0600/s0502_ipo/solution.go)| Hard | Array, Sorting, Greedy, Heap_Priority_Queue | 62 | 91.95
 | 0295 |[Find Median from Data Stream](src/main/go/g0201_0300/s0295_find_median_from_data_stream/medianfinder.go)| Hard | Top_100_Liked_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Big_O_Time_O(n\*log_n)_Space_O(n) | 59 | 96.70
 
 #### Top Interview 150 Bit Manipulation
@@ -1742,15 +1753,24 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
 | 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, LeetCode_75_DP/Multidimensional, Algorithm_II_Day_17_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 11 | 84.94
+| 0918 |[Maximum Sum Circular Subarray](src/main/go/g0901_1000/s0918_maximum_sum_circular_subarray/solution.go)| Medium | Array, Dynamic_Programming, Divide_and_Conquer, Queue, Monotonic_Queue, Dynamic_Programming_I_Day_5, Top_Interview_150_Kadane's_Algorithm | 0 | 100.00
+| 0909 |[Snakes and Ladders](src/main/go/g0901_1000/s0909_snakes_and_ladders/solution.go)| Medium | Array, Breadth_First_Search, Matrix, Top_Interview_150_Graph_BFS | 0 | 100.00
 | 0763 |[Partition Labels](src/main/go/g0701_0800/s0763_partition_labels/solution.go)| Medium | String, Hash_Table, Greedy, Two_Pointers, Data_Structure_II_Day_7_String, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0739 |[Daily Temperatures](src/main/go/g0701_0800/s0739_daily_temperatures/solution.go)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, LeetCode_75_Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 5 | 96.26
 | 0647 |[Palindromic Substrings](src/main/go/g0601_0700/s0647_palindromic_substrings/solution.go)| Medium | String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
+| 0637 |[Average of Levels in Binary Tree](src/main/go/g0601_0700/s0637_average_of_levels_in_binary_tree/solution.go)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Top_Interview_150_Binary_Tree_BFS | 0 | 100.00
 | 0560 |[Subarray Sum Equals K](src/main/go/g0501_0600/s0560_subarray_sum_equals_k/solution.go)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 11 | 93.74
 | 0543 |[Diameter of Binary Tree](src/main/go/g0501_0600/s0543_diameter_of_binary_tree/solution.go)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0530 |[Minimum Absolute Difference in BST](src/main/go/g0501_0600/s0530_minimum_absolute_difference_in_bst/solution.go)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Top_Interview_150_Binary_Search_Tree | 0 | 100.00
+| 0502 |[IPO](src/main/go/g0501_0600/s0502_ipo/solution.go)| Hard | Array, Sorting, Greedy, Heap_Priority_Queue, Top_Interview_150_Heap | 62 | 91.95
 | 0494 |[Target Sum](src/main/go/g0401_0500/s0494_target_sum/solution.go)| Medium | Array, Dynamic_Programming, Backtracking, Big_O_Time_O(n\*(sum+s))_Space_O(n\*(sum+s)) | 3 | 84.35
+| 0452 |[Minimum Number of Arrows to Burst Balloons](src/main/go/g0401_0500/s0452_minimum_number_of_arrows_to_burst_balloons/solution.go)| Medium | Array, Sorting, Greedy, LeetCode_75_Intervals, Top_Interview_150_Intervals | 32 | 94.66
 | 0438 |[Find All Anagrams in a String](src/main/go/g0401_0500/s0438_find_all_anagrams_in_a_string/solution.go)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Algorithm_II_Day_5_Sliding_Window, Programming_Skills_II_Day_12, Level_1_Day_12_Sliding_Window/Two_Pointer, Big_O_Time_O(n+m)_Space_O(1) | 0 | 100.00
 | 0437 |[Path Sum III](src/main/go/g0401_0500/s0437_path_sum_iii/solution.go)| Medium | Depth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/DFS, Level_2_Day_7_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0433 |[Minimum Genetic Mutation](src/main/go/g0401_0500/s0433_minimum_genetic_mutation/solution.go)| Medium | String, Hash_Table, Breadth_First_Search, Graph_Theory_I_Day_12_Breadth_First_Search, Top_Interview_150_Graph_BFS | 0 | 100.00
+| 0427 |[Construct Quad Tree](src/main/go/g0401_0500/s0427_construct_quad_tree/solution.go)| Medium | Array, Tree, Matrix, Divide_and_Conquer, Top_Interview_150_Divide_and_Conquer | 0 | 100.00
 | 0416 |[Partition Equal Subset Sum](src/main/go/g0401_0500/s0416_partition_equal_subset_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Level_2_Day_13_Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 4 | 97.02
+| 0399 |[Evaluate Division](src/main/go/g0301_0400/s0399_evaluate_division/solution.go)| Medium | Array, Depth_First_Search, Breadth_First_Search, Graph, Union_Find, Shortest_Path, LeetCode_75_Graphs/DFS, Top_Interview_150_Graph_General | 0 | 100.00
 | 0394 |[Decode String](src/main/go/g0301_0400/s0394_decode_string/solution.go)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, LeetCode_75_Stack, Level_1_Day_14_Stack, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0392 |[Is Subsequence](src/main/go/g0301_0400/s0392_is_subsequence/solution.go)| Easy | String, Dynamic_Programming, Two_Pointers, LeetCode_75_Two_Pointers, Dynamic_Programming_I_Day_19, Level_1_Day_2_String, Udemy_Two_Pointers, Top_Interview_150_Two_Pointers | 0 | 100.00
 | 0383 |[Ransom Note](src/main/go/g0301_0400/s0383_ransom_note/solution.go)| Easy | String, Hash_Table, Counting, Data_Structure_I_Day_6_String, Top_Interview_150_Hashmap | 0 | 100.00
