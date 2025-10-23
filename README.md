@@ -11,10 +11,6 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
-* [Dynamic Programming I](#dynamic-programming-i)
-* [Programming Skills I](#programming-skills-i)
-* [Programming Skills II](#programming-skills-ii)
-* [Graph Theory I](#graph-theory-i)
 * [SQL I](#sql-i)
 * [Level 1](#level-1)
 * [Level 2](#level-2)
@@ -26,396 +22,10 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 * [Algorithm II](#algorithm-ii)
 * [Binary Search I](#binary-search-i)
 * [Binary Search II](#binary-search-ii)
-
-### Dynamic Programming I
-
-#### Day 1
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 2
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-
-#### Day 3
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-
-#### Day 4
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0055 |[Jump Game](src/main/go/g0001_0100/s0055_jump_game/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-| 0045 |[Jump Game II](src/main/go/g0001_0100/s0045_jump_game_ii/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 5
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0053 |[Maximum Subarray](src/main/go/g0001_0100/s0053_maximum_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-| 0918 |[Maximum Sum Circular Subarray](src/main/go/g0901_1000/s0918_maximum_sum_circular_subarray/solution.go)| Medium | Array, Dynamic_Programming, Divide_and_Conquer, Queue, Monotonic_Queue | 0 | 100.00
-
-#### Day 6
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0152 |[Maximum Product Subarray](src/main/go/g0101_0200/s0152_maximum_product_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-
-#### Day 7
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0121 |[Best Time to Buy and Sell Stock](src/main/go/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-| 0122 |[Best Time to Buy and Sell Stock II](src/main/go/g0101_0200/s0122_best_time_to_buy_and_sell_stock_ii/solution.go)| Medium | Top_Interview_Questions, Array, Dynamic_Programming, Greedy | 0 | 100.00
-
-#### Day 8
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 9
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0139 |[Word Break](src/main/go/g0101_0200/s0139_word_break/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
-| 0042 |[Trapping Rain Water](src/main/go/g0001_0100/s0042_trapping_rain_water/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 10
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 11
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0096 |[Unique Binary Search Trees](src/main/go/g0001_0100/s0096_unique_binary_search_trees/solution.go)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 12
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 13
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0120 |[Triangle](src/main/go/g0101_0200/s0120_triangle/solution.go)| Medium | Array, Dynamic_Programming | 0 | 100.00
-
-#### Day 14
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 15
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0062 |[Unique Paths](src/main/go/g0001_0100/s0062_unique_paths/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, LeetCode_75_DP/Multidimensional, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
-| 0063 |[Unique Paths II](src/main/go/g0001_0100/s0063_unique_paths_ii/solution.go)| Medium | Array, Dynamic_Programming, Matrix | 0 | 100.00
-
-#### Day 16
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0064 |[Minimum Path Sum](src/main/go/g0001_0100/s0064_minimum_path_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
-| 0221 |[Maximal Square](src/main/go/g0201_0300/s0221_maximal_square/solution.go)| Medium | Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 1 | 93.36
-
-#### Day 17
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0005 |[Longest Palindromic Substring](src/main/go/g0001_0100/s0005_longest_palindromic_substring/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-
-#### Day 18
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 0 | 100.00
-
-#### Day 19
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0392 |[Is Subsequence](src/main/go/g0301_0400/s0392_is_subsequence/solution.go)| Easy | String, Dynamic_Programming, Two_Pointers, LeetCode_75_Two_Pointers | 0 | 100.00
-| 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, LeetCode_75_DP/Multidimensional, Big_O_Time_O(n\*m)_Space_O(n\*m) | 11 | 84.94
-| 0072 |[Edit Distance](src/main/go/g0001_0100/s0072_edit_distance/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, LeetCode_75_DP/Multidimensional, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
-
-#### Day 20
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 79.59
-
-#### Day 21
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-### Programming Skills I
-
-#### Day 1 Basic Data Type
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 2 Operator
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0191 |[Number of 1 Bits](src/main/go/g0101_0200/s0191_number_of_1_bits/solution.go)| Easy | Top_Interview_Questions, Bit_Manipulation | 0 | 100.00
-
-#### Day 3 Conditional Statements
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 4 Loop
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0202 |[Happy Number](src/main/go/g0201_0300/s0202_happy_number/solution.go)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 0 | 100.00
-
-#### Day 5 Function
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 6 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0283 |[Move Zeroes](src/main/go/g0201_0300/s0283_move_zeroes/solution.go)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, LeetCode_75_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 7 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 8 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 9 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 10 Linked List and Tree
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0104 |[Maximum Depth of Binary Tree](src/main/go/g0101_0200/s0104_maximum_depth_of_binary_tree/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/DFS, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
-
-#### Day 11 Containers and Libraries
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0242 |[Valid Anagram](src/main/go/g0201_0300/s0242_valid_anagram/solution.go)| Easy | String, Hash_Table, Sorting | 0 | 100.00
-
-#### Day 12 Class and Object
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-### Programming Skills II
-
-#### Day 1
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0028 |[Implement strStr()](src/main/go/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string/solution.go)| Easy | Top_Interview_Questions, String, Two_Pointers, String_Matching | 0 | 100.00
-
-#### Day 2
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 3
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0150 |[Evaluate Reverse Polish Notation](src/main/go/g0101_0200/s0150_evaluate_reverse_polish_notation/solution.go)| Medium | Top_Interview_Questions, Array, Math, Stack | 0 | 100.00
-| 0066 |[Plus One](src/main/go/g0001_0100/s0066_plus_one/solution.go)| Easy | Top_Interview_Questions, Array, Math | 0 | 100.00
-
-#### Day 4
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 5
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0067 |[Add Binary](src/main/go/g0001_0100/s0067_add_binary/solution.go)| Easy | String, Math, Bit_Manipulation, Simulation | 0 | 100.00
-
-#### Day 6
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0739 |[Daily Temperatures](src/main/go/g0701_0800/s0739_daily_temperatures/solution.go)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, LeetCode_75_Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 5 | 96.26
-| 0058 |[Length of Last Word](src/main/go/g0001_0100/s0058_length_of_last_word/solution.go)| Easy | String | 0 | 100.00
-
-#### Day 7
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0048 |[Rotate Image](src/main/go/g0001_0100/s0048_rotate_image/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
-
-#### Day 8
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0054 |[Spiral Matrix](src/main/go/g0001_0100/s0054_spiral_matrix/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Simulation | 0 | 100.00
-
-#### Day 9
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 10
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 11
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0049 |[Group Anagrams](src/main/go/g0001_0100/s0049_group_anagrams/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 4 | 96.55
-
-#### Day 12
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0438 |[Find All Anagrams in a String](src/main/go/g0401_0500/s0438_find_all_anagrams_in_a_string/solution.go)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 0 | 100.00
-
-#### Day 13
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 14
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0138 |[Copy List with Random Pointer](src/main/go/g0101_0200/s0138_copy_list_with_random_pointer/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
-
-#### Day 15
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0002 |[Add Two Numbers](src/main/go/g0001_0100/s0002_add_two_numbers/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 0 | 100.00
-
-#### Day 16
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0061 |[Rotate List](src/main/go/g0001_0100/s0061_rotate_list/solution.go)| Medium | Two_Pointers, Linked_List | 0 | 100.00
-| 0173 |[Binary Search Tree Iterator](src/main/go/g0101_0200/s0173_binary_search_tree_iterator/bstiterator.go)| Medium | Tree, Binary_Tree, Stack, Design, Binary_Search_Tree, Iterator | 15 | 100.00
-
-#### Day 17
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 18
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
-
-#### Day 19
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 20
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0380 |[Insert Delete GetRandom O(1)](src/main/go/g0301_0400/s0380_insert_delete_getrandom_o1/randomizedset.go)| Medium | Array, Hash_Table, Math, Design, Randomized | 47 | 87.65
-
-### Graph Theory I
-
-#### Day 1 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
-
-#### Day 2 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 3 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 4 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 5 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 6 Matrix Related Problems
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 7 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 8 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 9 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 10 Standard Traversal
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 11 Breadth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 12 Breadth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-| 0433 |[Minimum Genetic Mutation](src/main/go/g0401_0500/s0433_minimum_genetic_mutation/solution.go)| Medium | String, Hash_Table, Breadth_First_Search | 0 | 100.00
-| 0127 |[Word Ladder](src/main/go/g0101_0200/s0127_word_ladder/solution.go)| Hard | Top_Interview_Questions, String, Hash_Table, Breadth_First_Search | 17 | 97.47
-
-#### Day 13 Graph Theory
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
-
-#### Day 14 Graph Theory
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-
+* [Dynamic Programming I](#dynamic-programming-i)
+* [Programming Skills I](#programming-skills-i)
+* [Programming Skills II](#programming-skills-ii)
+* [Graph Theory I](#graph-theory-i)
 
 ### SQL I
 
@@ -1751,6 +1361,396 @@ Go-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 
 #### Day 20
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+### Dynamic Programming I
+
+#### Day 1
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 2
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/go/g0001_0100/s0070_climbing_stairs/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+
+#### Day 3
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0198 |[House Robber](src/main/go/g0101_0200/s0198_house_robber/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+
+#### Day 4
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0055 |[Jump Game](src/main/go/g0001_0100/s0055_jump_game/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0045 |[Jump Game II](src/main/go/g0001_0100/s0045_jump_game_ii/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 5
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/go/g0001_0100/s0053_maximum_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0918 |[Maximum Sum Circular Subarray](src/main/go/g0901_1000/s0918_maximum_sum_circular_subarray/solution.go)| Medium | Array, Dynamic_Programming, Divide_and_Conquer, Queue, Monotonic_Queue | 0 | 100.00
+
+#### Day 6
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0152 |[Maximum Product Subarray](src/main/go/g0101_0200/s0152_maximum_product_subarray/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+
+#### Day 7
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/go/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0122 |[Best Time to Buy and Sell Stock II](src/main/go/g0101_0200/s0122_best_time_to_buy_and_sell_stock_ii/solution.go)| Medium | Top_Interview_Questions, Array, Dynamic_Programming, Greedy | 0 | 100.00
+
+#### Day 8
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 9
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0139 |[Word Break](src/main/go/g0101_0200/s0139_word_break/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
+| 0042 |[Trapping Rain Water](src/main/go/g0001_0100/s0042_trapping_rain_water/solution.go)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 10
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 11
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0096 |[Unique Binary Search Trees](src/main/go/g0001_0100/s0096_unique_binary_search_trees/solution.go)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 12
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 13
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0120 |[Triangle](src/main/go/g0101_0200/s0120_triangle/solution.go)| Medium | Array, Dynamic_Programming | 0 | 100.00
+
+#### Day 14
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 15
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/go/g0001_0100/s0062_unique_paths/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, LeetCode_75_DP/Multidimensional, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0063 |[Unique Paths II](src/main/go/g0001_0100/s0063_unique_paths_ii/solution.go)| Medium | Array, Dynamic_Programming, Matrix | 0 | 100.00
+
+#### Day 16
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0064 |[Minimum Path Sum](src/main/go/g0001_0100/s0064_minimum_path_sum/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0221 |[Maximal Square](src/main/go/g0201_0300/s0221_maximal_square/solution.go)| Medium | Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 1 | 93.36
+
+#### Day 17
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0005 |[Longest Palindromic Substring](src/main/go/g0001_0100/s0005_longest_palindromic_substring/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+
+#### Day 18
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/go/g0201_0300/s0300_longest_increasing_subsequence/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 0 | 100.00
+
+#### Day 19
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0392 |[Is Subsequence](src/main/go/g0301_0400/s0392_is_subsequence/solution.go)| Easy | String, Dynamic_Programming, Two_Pointers, LeetCode_75_Two_Pointers | 0 | 100.00
+| 1143 |[Longest Common Subsequence](src/main/go/g1101_1200/s1143_longest_common_subsequence/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, LeetCode_75_DP/Multidimensional, Big_O_Time_O(n\*m)_Space_O(n\*m) | 11 | 84.94
+| 0072 |[Edit Distance](src/main/go/g0001_0100/s0072_edit_distance/solution.go)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, LeetCode_75_DP/Multidimensional, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
+
+#### Day 20
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0322 |[Coin Change](src/main/go/g0301_0400/s0322_coin_change/solution.go)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 10 | 79.59
+
+#### Day 21
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+### Programming Skills I
+
+#### Day 1 Basic Data Type
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 2 Operator
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0191 |[Number of 1 Bits](src/main/go/g0101_0200/s0191_number_of_1_bits/solution.go)| Easy | Top_Interview_Questions, Bit_Manipulation | 0 | 100.00
+
+#### Day 3 Conditional Statements
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 4 Loop
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0202 |[Happy Number](src/main/go/g0201_0300/s0202_happy_number/solution.go)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 0 | 100.00
+
+#### Day 5 Function
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 6 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0283 |[Move Zeroes](src/main/go/g0201_0300/s0283_move_zeroes/solution.go)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, LeetCode_75_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 7 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 8 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 9 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 10 Linked List and Tree
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/go/g0101_0200/s0104_maximum_depth_of_binary_tree/solution.go)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/DFS, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+
+#### Day 11 Containers and Libraries
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0242 |[Valid Anagram](src/main/go/g0201_0300/s0242_valid_anagram/solution.go)| Easy | String, Hash_Table, Sorting | 0 | 100.00
+
+#### Day 12 Class and Object
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+### Programming Skills II
+
+#### Day 1
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0028 |[Implement strStr()](src/main/go/g0001_0100/s0028_find_the_index_of_the_first_occurrence_in_a_string/solution.go)| Easy | Top_Interview_Questions, String, Two_Pointers, String_Matching | 0 | 100.00
+
+#### Day 2
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 3
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0150 |[Evaluate Reverse Polish Notation](src/main/go/g0101_0200/s0150_evaluate_reverse_polish_notation/solution.go)| Medium | Top_Interview_Questions, Array, Math, Stack | 0 | 100.00
+| 0066 |[Plus One](src/main/go/g0001_0100/s0066_plus_one/solution.go)| Easy | Top_Interview_Questions, Array, Math | 0 | 100.00
+
+#### Day 4
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 5
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0067 |[Add Binary](src/main/go/g0001_0100/s0067_add_binary/solution.go)| Easy | String, Math, Bit_Manipulation, Simulation | 0 | 100.00
+
+#### Day 6
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0739 |[Daily Temperatures](src/main/go/g0701_0800/s0739_daily_temperatures/solution.go)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, LeetCode_75_Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 5 | 96.26
+| 0058 |[Length of Last Word](src/main/go/g0001_0100/s0058_length_of_last_word/solution.go)| Easy | String | 0 | 100.00
+
+#### Day 7
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/go/g0001_0100/s0048_rotate_image/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+
+#### Day 8
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0054 |[Spiral Matrix](src/main/go/g0001_0100/s0054_spiral_matrix/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Simulation | 0 | 100.00
+
+#### Day 9
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 10
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 11
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/go/g0001_0100/s0049_group_anagrams/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 4 | 96.55
+
+#### Day 12
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/go/g0401_0500/s0438_find_all_anagrams_in_a_string/solution.go)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 0 | 100.00
+
+#### Day 13
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 14
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0138 |[Copy List with Random Pointer](src/main/go/g0101_0200/s0138_copy_list_with_random_pointer/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+
+#### Day 15
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0002 |[Add Two Numbers](src/main/go/g0001_0100/s0002_add_two_numbers/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 0 | 100.00
+
+#### Day 16
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0061 |[Rotate List](src/main/go/g0001_0100/s0061_rotate_list/solution.go)| Medium | Two_Pointers, Linked_List | 0 | 100.00
+| 0173 |[Binary Search Tree Iterator](src/main/go/g0101_0200/s0173_binary_search_tree_iterator/bstiterator.go)| Medium | Tree, Binary_Tree, Stack, Design, Binary_Search_Tree, Iterator | 15 | 100.00
+
+#### Day 17
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 18
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0155 |[Min Stack](src/main/go/g0101_0200/s0155_min_stack/minstack.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 0 | 100.00
+
+#### Day 19
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 20
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0380 |[Insert Delete GetRandom O(1)](src/main/go/g0301_0400/s0380_insert_delete_getrandom_o1/randomizedset.go)| Medium | Array, Hash_Table, Math, Design, Randomized | 47 | 87.65
+
+### Graph Theory I
+
+#### Day 1 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0200 |[Number of Islands](src/main/go/g0101_0200/s0200_number_of_islands/solution.go)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 2 | 87.44
+
+#### Day 2 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 3 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 4 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 5 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 6 Matrix Related Problems
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 7 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 8 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 9 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 10 Standard Traversal
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 11 Breadth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 12 Breadth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+| 0433 |[Minimum Genetic Mutation](src/main/go/g0401_0500/s0433_minimum_genetic_mutation/solution.go)| Medium | String, Hash_Table, Breadth_First_Search | 0 | 100.00
+| 0127 |[Word Ladder](src/main/go/g0101_0200/s0127_word_ladder/solution.go)| Hard | Top_Interview_Questions, String, Hash_Table, Breadth_First_Search | 17 | 97.47
+
+#### Day 13 Graph Theory
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-
+
+#### Day 14 Graph Theory
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
